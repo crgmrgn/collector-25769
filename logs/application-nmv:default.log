@@ -1,0 +1,1308 @@
+[ Jun 22 15:22:21 Enabled. ]
+[ Jun 22 15:22:51 Executing start method ("/usr/bin/nmv.py"). ]
+NMV daemonized...
+[ Jun 22 15:22:51 Method "start" exited with status 0. ]
+2011-06-22 15:22:55,345 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-06-22 15:22:55,345 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-06-22 15:22:55,345 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-06-22 15:22:55,346 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-06-22 15:22:55,348 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-06-22 15:22:55,348 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-06-22 15:22:55,349 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-06-22 15:22:55,349 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-06-22 15:22:55,360 nmv.model INFO insert Setting property: {'property': 'language', 'type': 'string', 'description': 'User Interface Language', 'value': 'en'}
+2011-06-22 15:22:55,362 nmv.model INFO insert Setting property: {'property': 'global_can_view', 'type': 'bool', 'description': 'Read access is password protected', 'value': '0'}
+2011-06-22 15:22:55,363 nmv.model INFO insert Setting property: {'property': 'upgrade_check_interval', 'type': 'int', 'description': 'Periodic check for software upgrades (seconds). 0 means no checks. Preferred value if you want to check for upgrades is 43200.', 'value': '0'}
+2011-06-22 15:22:55,364 nmv.model INFO insert Setting property: {'property': 'appliances_check_interval', 'type': 'int', 'description': 'Keep-alive appliances interval (seconds)', 'value': '600'}
+2011-06-22 15:22:55,366 nmv.model INFO insert Setting property: {'property': 'disable_nms_version_check', 'type': 'bool', 'description': 'Disable version checking during switch operation', 'value': '0'}
+2011-06-22 15:22:55,367 nmv.model INFO insert Setting property: {'property': 'pagination_per_page', 'type': 'int', 'description': 'Number of rows to display in tables with pagination enabled', 'value': '15'}
+2011-06-22 15:22:55,368 nmv.model INFO insert Setting property: {'property': 'expert_mode', 'type': 'bool', 'description': 'Enable advanced "expert" mode', 'value': '0'}
+2011-06-22 15:22:55,369 nmv.model INFO insert Setting property: {'property': 'remobj_conn_timeout', 'type': 'int', 'description': 'Web GUI => management server connection establishment timeout (seconds)', 'value': '20'}
+2011-06-22 15:22:55,371 nmv.model INFO insert Setting property: {'property': 'retrieve_threshold', 'type': 'int', 'description': 'Number of undisplayed items that constitues a buffer near-empty condition', 'value': '300'}
+2011-06-22 15:22:55,372 nmv.model INFO insert Setting property: {'property': 'inc_retrieve', 'type': 'int', 'description': 'Number of seconds to retrieve for buffered charts when the buffer size reaches the retrieve threshold', 'value': '60'}
+2011-06-22 15:22:55,373 nmv.model INFO insert Setting property: {'property': 'cpuprof_display_width', 'type': 'int', 'description': 'How many data points to display for CPU status', 'value': '20'}
+2011-06-22 15:22:55,374 nmv.model INFO insert Setting property: {'property': 'cpuprof_retrieve_time', 'type': 'int', 'description': 'How many datapoints to retrieve at a time for CPU status', 'value': '5'}
+2011-06-22 15:22:55,376 nmv.model INFO insert Setting property: {'property': 'tcpstat_display_width', 'type': 'int', 'description': 'How many data points to display for network status', 'value': '20'}
+2011-06-22 15:22:55,377 nmv.model INFO insert Setting property: {'property': 'tcpstat_retrieve_time', 'type': 'int', 'description': 'How many datapoints to retrieve at a time for network status', 'value': '5'}
+2011-06-22 15:22:55,378 nmv.model INFO insert Setting property: {'property': 'iopattern_display_width', 'type': 'int', 'description': 'How many data points to display for disk status', 'value': '20'}
+2011-06-22 15:22:55,379 nmv.model INFO insert Setting property: {'property': 'iopattern_retrieve_time', 'type': 'int', 'description': 'How many datapoints to retrieve at a time for disk status', 'value': '5'}
+2011-06-22 15:22:55,381 nmv.model INFO insert Setting property: {'property': 'analytics_refresh_interval', 'type': 'int', 'description': 'How many ms between analytics refreshes', 'value': '2000'}
+2011-06-22 15:22:55,382 nmv.model INFO insert Setting property: {'property': 'nmv_login_timeout', 'type': 'int', 'description': 'Session inactivity timeout (minutes)', 'value': '10'}
+2011-06-22 15:22:55,383 nmv.model INFO insert Setting property: {'property': 'ajaxgrid_update_interval', 'type': 'int', 'description': 'Update frequency for AJAX grids across NMV (miliseconds)', 'value': '30000'}
+2011-06-22 15:22:55,385 nmv.model INFO insert Setting property: {'property': 'ajaxgrid_show_update_link', 'type': 'bool', 'description': 'Whether to show an "Update" link below AJAX grids', 'value': '1'}
+2011-06-22 15:22:55,390 cherrypy.msg INFO CONFIG: Server parameters:
+2011-06-22 15:22:55,390 cherrypy.msg INFO CONFIG:   server.environment: production
+2011-06-22 15:22:55,390 cherrypy.msg INFO CONFIG:   server.log_to_screen: True
+2011-06-22 15:22:55,390 cherrypy.msg INFO CONFIG:   server.log_file: 
+2011-06-22 15:22:55,391 cherrypy.msg INFO CONFIG:   server.log_tracebacks: True
+2011-06-22 15:22:55,391 cherrypy.msg INFO CONFIG:   server.log_request_headers: False
+2011-06-22 15:22:55,391 cherrypy.msg INFO CONFIG:   server.protocol_version: HTTP/1.1
+2011-06-22 15:22:55,391 cherrypy.msg INFO CONFIG:   server.socket_host: 127.0.0.1
+2011-06-22 15:22:55,391 cherrypy.msg INFO CONFIG:   server.socket_port: 3000
+2011-06-22 15:22:55,392 cherrypy.msg INFO CONFIG:   server.socket_file: 
+2011-06-22 15:22:55,392 cherrypy.msg INFO CONFIG:   server.reverse_dns: False
+2011-06-22 15:22:55,392 cherrypy.msg INFO CONFIG:   server.socket_queue_size: 25
+2011-06-22 15:22:55,392 cherrypy.msg INFO CONFIG:   server.thread_pool: 50
+2011-06-22 15:22:55,419 turbogears.visit INFO Visit Tracking starting
+2011-06-22 15:22:55,421 turbogears.visit.sovisit INFO Succesfully loaded "nmv.model.Visit"
+2011-06-22 15:22:55,425 turbogears.visit INFO Visit filter initialised
+2011-06-22 15:22:55,425 turbogears.identity INFO Identity starting
+2011-06-22 15:22:55,426 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-06-22 15:22:55,426 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-06-22 15:22:55,426 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-06-22 15:22:55,426 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-06-22 15:22:55,427 turbogears.identity INFO Identity visit plugin initialised
+2011-06-22 15:22:55,427 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-06-22 15:22:55,427 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-06-22 15:22:55,427 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-06-22 15:22:55,427 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-06-22 15:22:55,427 nmv INFO PID = 4803
+2011-06-22 15:22:55,428 nmv INFO Sessions storage created under "/var/lib/nza/nmv/sessions"
+2011-06-22 15:22:55,432 nmv.filters.states INFO <LicenseStateChecker per 60 seconds> state checker registered
+2011-06-22 15:22:55,433 nmv.filters.states INFO <UnregisteredPluginsStateChecker per 60 seconds> state checker registered
+2011-06-22 15:22:55,433 nmv.filters.states INFO <UnconfirmedEulasStateChecker per 60 seconds> state checker registered
+2011-06-22 15:22:55,434 nmv.theme.base INFO Looking for NMV themes under "/var/lib/nza/themes/nmv"
+2011-06-22 15:22:55,436 nmv.theme.base INFO Theme "nexenta" loaded
+2011-06-22 15:22:55,436 nmv.theme.base INFO Current theme is "Nexenta". Default theme is "Nexenta".
+2011-06-22 15:22:55,440 nmv.plugins INFO Imported plugin "nmv-autosmart"
+2011-06-22 15:22:55,466 nmv.plugins INFO Initialized plugin "nmv-autosmart"
+2011-06-22 15:22:55,469 nmv.plugins INFO Imported plugin "nmv-comstar"
+2011-06-22 15:22:55,776 nmv.plugins INFO Initialized plugin "nmv-comstar"
+2011-06-22 15:22:55,779 nmv.plugins INFO Imported plugin "nmv-autosync"
+2011-06-22 15:22:55,805 nmv.plugins INFO Initialized plugin "nmv-autosync"
+2011-06-22 15:22:55,808 nmv.jobs INFO Job "ListAppliancesCheckJob" registered with 600 seconds interval
+2011-06-22 15:22:55,809 nmv.jobs INFO Job "CheckScrubbingProgress" registered with 1800 seconds interval
+2011-06-22 15:22:55,809 nmv.jobs INFO Job "CheckSystemNotices" registered with 60 seconds interval
+2011-06-22 15:22:55,809 nmv.jobs INFO Job "CheckAvailableUpgrades" registered with 0 seconds interval
+2011-06-22 15:22:55,809 nmv.state INFO State changed from stop to running
+2011-06-22 15:22:55,809 turbogears.startup INFO Scheduler started
+2011-06-22 15:22:56,011 cherrypy.msg INFO HTTP: Serving HTTP on http://127.0.0.1:3000/
+2011-06-22 15:31:28,971 cherrypy.msg INFO HTTP: HTTP Server shut down
+2011-06-22 15:31:28,972 turbogears.visit INFO Visit Tracking shutting down
+2011-06-22 15:31:29,017 turbogears.identity INFO Identity shutting down
+2011-06-22 15:31:29,017 nmv.controllers INFO Killing multiplex
+2011-06-22 15:31:29,847 turbogears.startup INFO Scheduler stopped
+2011-06-22 15:31:29,848 cherrypy.msg INFO ENGINE: CherryPy shut down
+[ Jun 22 16:52:48 Enabled. ]
+[ Jun 22 16:52:52 Rereading configuration. ]
+[ Jun 22 16:53:36 Executing start method ("/usr/bin/nmv.py"). ]
+NMV daemonized...
+[ Jun 22 16:53:36 Method "start" exited with status 0. ]
+2011-06-22 16:53:39,724 cherrypy.msg INFO CONFIG: Server parameters:
+2011-06-22 16:53:39,725 cherrypy.msg INFO CONFIG:   server.environment: production
+2011-06-22 16:53:39,725 cherrypy.msg INFO CONFIG:   server.log_to_screen: True
+2011-06-22 16:53:39,725 cherrypy.msg INFO CONFIG:   server.log_file: 
+2011-06-22 16:53:39,725 cherrypy.msg INFO CONFIG:   server.log_tracebacks: True
+2011-06-22 16:53:39,725 cherrypy.msg INFO CONFIG:   server.log_request_headers: False
+2011-06-22 16:53:39,725 cherrypy.msg INFO CONFIG:   server.protocol_version: HTTP/1.1
+2011-06-22 16:53:39,725 cherrypy.msg INFO CONFIG:   server.socket_host: 127.0.0.1
+2011-06-22 16:53:39,726 cherrypy.msg INFO CONFIG:   server.socket_port: 3000
+2011-06-22 16:53:39,726 cherrypy.msg INFO CONFIG:   server.socket_file: 
+2011-06-22 16:53:39,726 cherrypy.msg INFO CONFIG:   server.reverse_dns: False
+2011-06-22 16:53:39,726 cherrypy.msg INFO CONFIG:   server.socket_queue_size: 25
+2011-06-22 16:53:39,726 cherrypy.msg INFO CONFIG:   server.thread_pool: 50
+2011-06-22 16:53:39,747 turbogears.visit INFO Visit Tracking starting
+2011-06-22 16:53:39,749 turbogears.visit.sovisit INFO Succesfully loaded "nmv.model.Visit"
+2011-06-22 16:53:39,750 turbogears.visit INFO Visit filter initialised
+2011-06-22 16:53:39,750 turbogears.identity INFO Identity starting
+2011-06-22 16:53:39,750 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-06-22 16:53:39,750 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-06-22 16:53:39,751 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-06-22 16:53:39,751 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-06-22 16:53:39,751 turbogears.identity INFO Identity visit plugin initialised
+2011-06-22 16:53:39,752 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-06-22 16:53:39,752 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-06-22 16:53:39,752 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-06-22 16:53:39,752 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-06-22 16:53:39,752 nmv INFO PID = 1261
+2011-06-22 16:53:39,756 nmv.filters.states INFO <LicenseStateChecker per 60 seconds> state checker registered
+2011-06-22 16:53:39,756 nmv.filters.states INFO <UnregisteredPluginsStateChecker per 60 seconds> state checker registered
+2011-06-22 16:53:39,756 nmv.filters.states INFO <UnconfirmedEulasStateChecker per 60 seconds> state checker registered
+2011-06-22 16:53:39,757 nmv.theme.base INFO Looking for NMV themes under "/var/lib/nza/themes/nmv"
+2011-06-22 16:53:39,758 nmv.theme.base INFO Theme "nexenta" loaded
+2011-06-22 16:53:39,758 nmv.theme.base INFO Current theme is "Nexenta". Default theme is "Nexenta".
+2011-06-22 16:53:39,763 nmv.plugins INFO Imported plugin "nmv-autosmart"
+2011-06-22 16:53:39,789 nmv.plugins INFO Initialized plugin "nmv-autosmart"
+2011-06-22 16:53:39,791 nmv.plugins INFO Imported plugin "nmv-comstar"
+2011-06-22 16:53:40,101 nmv.plugins INFO Initialized plugin "nmv-comstar"
+2011-06-22 16:53:40,104 nmv.plugins INFO Imported plugin "nmv-autosync"
+2011-06-22 16:53:40,129 nmv.plugins INFO Initialized plugin "nmv-autosync"
+2011-06-22 16:53:40,133 nmv.jobs INFO Job "ListAppliancesCheckJob" registered with 600 seconds interval
+2011-06-22 16:53:40,133 nmv.jobs INFO Job "CheckScrubbingProgress" registered with 1800 seconds interval
+2011-06-22 16:53:40,133 nmv.jobs INFO Job "CheckSystemNotices" registered with 60 seconds interval
+2011-06-22 16:53:40,133 nmv.jobs INFO Job "CheckAvailableUpgrades" registered with 0 seconds interval
+2011-06-22 16:53:40,133 nmv.state INFO State changed from stop to running
+2011-06-22 16:53:40,133 turbogears.startup INFO Scheduler started
+2011-06-22 16:53:40,240 cherrypy.msg INFO HTTP: Serving HTTP on http://127.0.0.1:3000/
+[[dbus.String(u'America/Anguilla'), u'Anguilla - America/Anguilla'], [dbus.String(u'America/Antigua'), u'Antigua & Barbuda - America/Antigua'], [u'America/Buenos_Aires', u'Argentina - America/Buenos_Aires'], [u'America/Cordoba', u'Argentina - America/Cordoba'], [dbus.String(u'America/Argentina/Salta'), u'Argentina - America/Argentina/Salta'], [u'America/Jujuy', u'Argentina - America/Jujuy'], [dbus.String(u'America/Argentina/Tucuman'), u'Argentina - America/Argentina/Tucuman'], [u'America/Catamarca', u'Argentina - America/Catamarca'], [dbus.String(u'America/Argentina/La_Rioja'), u'Argentina - America/Argentina/La_Rioja'], [dbus.String(u'America/Argentina/San_Juan'), u'Argentina - America/Argentina/San_Juan'], [u'America/Mendoza', u'Argentina - America/Mendoza'], [dbus.String(u'America/Argentina/San_Luis'), u'Argentina - America/Argentina/San_Luis'], [dbus.String(u'America/Argentina/Rio_Gallegos'), u'Argentina - America/Argentina/Rio_Gallegos'], [dbus.String(u'America/Argentina/Ushuaia'), u'Argentina - America/Argentina/Ushuaia'], [dbus.String(u'America/Aruba'), u'Aruba - America/Aruba'], [dbus.String(u'America/Nassau'), u'Bahamas - America/Nassau'], [dbus.String(u'America/Barbados'), u'Barbados - America/Barbados'], [dbus.String(u'America/Belize'), u'Belize - America/Belize'], [dbus.String(u'America/La_Paz'), u'Bolivia - America/La_Paz'], [u'Brazil/DeNoronha', u'Brazil - Brazil/DeNoronha'], [dbus.String(u'America/Belem'), u'Brazil - America/Belem'], [dbus.String(u'America/Fortaleza'), u'Brazil - America/Fortaleza'], [dbus.String(u'America/Recife'), u'Brazil - America/Recife'], [dbus.String(u'America/Araguaina'), u'Brazil - America/Araguaina'], [dbus.String(u'America/Maceio'), u'Brazil - America/Maceio'], [dbus.String(u'America/Bahia'), u'Brazil - America/Bahia'], [u'Brazil/East', u'Brazil - Brazil/East'], [dbus.String(u'America/Campo_Grande'), u'Brazil - America/Campo_Grande'], [dbus.String(u'America/Cuiaba'), u'Brazil - America/Cuiaba'], [dbus.String(u'America/Santarem'), u'Brazil - America/Santarem'], [dbus.String(u'America/Porto_Velho'), u'Brazil - America/Porto_Velho'], [dbus.String(u'America/Boa_Vista'), u'Brazil - America/Boa_Vista'], [u'Brazil/West', u'Brazil - Brazil/West'], [dbus.String(u'America/Eirunepe'), u'Brazil - America/Eirunepe'], [u'Brazil/Acre', u'Brazil - Brazil/Acre'], [u'Canada/Newfoundland', u'Canada - Canada/Newfoundland'], [u'Canada/Atlantic', u'Canada - Canada/Atlantic'], [dbus.String(u'America/Glace_Bay'), u'Canada - America/Glace_Bay'], [dbus.String(u'America/Moncton'), u'Canada - America/Moncton'], [dbus.String(u'America/Goose_Bay'), u'Canada - America/Goose_Bay'], [dbus.String(u'America/Blanc-Sablon'), u'Canada - America/Blanc-Sablon'], [dbus.String(u'America/Montreal'), u'Canada - America/Montreal'], [u'Canada/Eastern', u'Canada - Canada/Eastern'], [dbus.String(u'America/Nipigon'), u'Canada - America/Nipigon'], [dbus.String(u'America/Thunder_Bay'), u'Canada - America/Thunder_Bay'], [dbus.String(u'America/Iqaluit'), u'Canada - America/Iqaluit'], [dbus.String(u'America/Pangnirtung'), u'Canada - America/Pangnirtung'], [dbus.String(u'America/Resolute'), u'Canada - America/Resolute'], [dbus.String(u'America/Atikokan'), u'Canada - America/Atikokan'], [dbus.String(u'America/Rankin_Inlet'), u'Canada - America/Rankin_Inlet'], [u'Canada/Central', u'Canada - Canada/Central'], [dbus.String(u'America/Rainy_River'), u'Canada - America/Rainy_River'], [u'Canada/East-Saskatchewan', u'Canada - Canada/East-Saskatchewan'], [dbus.String(u'America/Swift_Current'), u'Canada - America/Swift_Current'], [u'Canada/Mountain', u'Canada - Canada/Mountain'], [dbus.String(u'America/Cambridge_Bay'), u'Canada - America/Cambridge_Bay'], [dbus.String(u'America/Yellowknife'), u'Canada - America/Yellowknife'], [dbus.String(u'America/Inuvik'), u'Canada - America/Inuvik'], [dbus.String(u'America/Dawson_Creek'), u'Canada - America/Dawson_Creek'], [u'Canada/Pacific', u'Canada - Canada/Pacific'], [u'Canada/Yukon', u'Canada - Canada/Yukon'], [dbus.String(u'America/Dawson'), u'Canada - America/Dawson'], [dbus.String(u'America/Cayman'), u'Cayman Islands - America/Cayman'], [u'Chile/Continental', u'Chile - Chile/Continental'], [dbus.String(u'America/Bogota'), u'Colombia - America/Bogota'], [dbus.String(u'America/Costa_Rica'), u'Costa Rica - America/Costa_Rica'], [dbus.String(u'America/Havana'), u'Cuba - America/Havana'], [dbus.String(u'America/Dominica'), u'Dominica - America/Dominica'], [dbus.String(u'America/Santo_Domingo'), u'Dominican Republic - America/Santo_Domingo'], [dbus.String(u'America/Guayaquil'), u'Ecuador - America/Guayaquil'], [dbus.String(u'America/El_Salvador'), u'El Salvador - America/El_Salvador'], [dbus.String(u'America/Cayenne'), u'French Guiana - America/Cayenne'], [dbus.String(u'America/Godthab'), u'Greenland - America/Godthab'], [dbus.String(u'America/Danmarkshavn'), u'Greenland - America/Danmarkshavn'], [dbus.String(u'America/Scoresbysund'), u'Greenland - America/Scoresbysund'], [dbus.String(u'America/Thule'), u'Greenland - America/Thule'], [dbus.String(u'America/Grenada'), u'Grenada - America/Grenada'], [dbus.String(u'America/Guadeloupe'), u'Guadeloupe - America/Guadeloupe'], [dbus.String(u'America/Guatemala'), u'Guatemala - America/Guatemala'], [dbus.String(u'America/Guyana'), u'Guyana - America/Guyana'], [dbus.String(u'America/Port-au-Prince'), u'Haiti - America/Port-au-Prince'], [dbus.String(u'America/Tegucigalpa'), u'Honduras - America/Tegucigalpa'], [dbus.String(u'America/Jamaica'), u'Jamaica - America/Jamaica'], [dbus.String(u'America/Martinique'), u'Martinique - America/Martinique'], [u'Mexico/General', u'Mexico - Mexico/General'], [dbus.String(u'America/Cancun'), u'Mexico - America/Cancun'], [dbus.String(u'America/Merida'), u'Mexico - America/Merida'], [dbus.String(u'America/Monterrey'), u'Mexico - America/Monterrey'], [dbus.String(u'America/Matamoros'), u'Mexico - America/Matamoros'], [u'Mexico/BajaSur', u'Mexico - Mexico/BajaSur'], [dbus.String(u'America/Chihuahua'), u'Mexico - America/Chihuahua'], [dbus.String(u'America/Ojinaga'), u'Mexico - America/Ojinaga'], [dbus.String(u'America/Hermosillo'), u'Mexico - America/Hermosillo'], [u'Mexico/BajaNorte', u'Mexico - Mexico/BajaNorte'], [dbus.String(u'America/Santa_Isabel'), u'Mexico - America/Santa_Isabel'], [dbus.String(u'America/Montserrat'), u'Montserrat - America/Montserrat'], [dbus.String(u'America/Curacao'), u'Netherlands Antilles - America/Curacao'], [dbus.String(u'America/Managua'), u'Nicaragua - America/Managua'], [dbus.String(u'America/Panama'), u'Panama - America/Panama'], [dbus.String(u'America/Asuncion'), u'Paraguay - America/Asuncion'], [dbus.String(u'America/Lima'), u'Peru - America/Lima'], [dbus.String(u'America/Puerto_Rico'), u'Puerto Rico - America/Puerto_Rico'], [dbus.String(u'America/St_Barthelemy'), u'St Barthelemy - America/St_Barthelemy'], [dbus.String(u'America/St_Kitts'), u'St Kitts & Nevis - America/St_Kitts'], [dbus.String(u'America/St_Lucia'), u'St Lucia - America/St_Lucia'], [dbus.String(u'America/Marigot'), u'St Martin (French part) - America/Marigot'], [dbus.String(u'America/Miquelon'), u'St Pierre & Miquelon - America/Miquelon'], [dbus.String(u'America/St_Vincent'), u'St Vincent - America/St_Vincent'], [dbus.String(u'America/Paramaribo'), u'Suriname - America/Paramaribo'], [dbus.String(u'America/Port_of_Spain'), u'Trinidad & Tobago - America/Port_of_Spain'], [dbus.String(u'America/Grand_Turk'), u'Turks & Caicos Is - America/Grand_Turk'], [u'US/Eastern', u'United States - US/Eastern'], [u'US/Michigan', u'United States - US/Michigan'], [dbus.String(u'America/Kentucky/Louisville'), u'United States - America/Kentucky/Louisville'], [dbus.String(u'America/Kentucky/Monticello'), u'United States - America/Kentucky/Monticello'], [u'US/East-Indiana', u'United States - US/East-Indiana'], [dbus.String(u'America/Indiana/Vincennes'), u'United States - America/Indiana/Vincennes'], [dbus.String(u'America/Indiana/Winamac'), u'United States - America/Indiana/Winamac'], [dbus.String(u'America/Indiana/Marengo'), u'United States - America/Indiana/Marengo'], [dbus.String(u'America/Indiana/Petersburg'), u'United States - America/Indiana/Petersburg'], [dbus.String(u'America/Indiana/Vevay'), u'United States - America/Indiana/Vevay'], [u'US/Central', u'United States - US/Central'], [dbus.String(u'America/Indiana/Tell_City'), u'United States - America/Indiana/Tell_City'], [dbus.String(u'America/Indiana/Knox'), u'United States - America/Indiana/Knox'], [dbus.String(u'America/Menominee'), u'United States - America/Menominee'], [dbus.String(u'America/North_Dakota/Center'), u'United States - America/North_Dakota/Center'], [dbus.String(u'America/North_Dakota/New_Salem'), u'United States - America/North_Dakota/New_Salem'], [u'US/Mountain', u'United States - US/Mountain'], [dbus.String(u'America/Boise'), u'United States - America/Boise'], [dbus.String(u'America/Shiprock'), u'United States - America/Shiprock'], [u'US/Arizona', u'United States - US/Arizona'], [u'US/Pacific', u'United States - US/Pacific'], [u'US/Alaska', u'United States - US/Alaska'], [dbus.String(u'America/Juneau'), u'United States - America/Juneau'], [dbus.String(u'America/Yakutat'), u'United States - America/Yakutat'], [dbus.String(u'America/Nome'), u'United States - America/Nome'], [u'US/Aleutian', u'United States - US/Aleutian'], [dbus.String(u'America/Montevideo'), u'Uruguay - America/Montevideo'], [dbus.String(u'America/Caracas'), u'Venezuela - America/Caracas'], [dbus.String(u'America/Tortola'), u'Virgin Islands (UK) - America/Tortola'], [dbus.String(u'America/St_Thomas'), u'Virgin Islands (US) - America/St_Thomas']]
+2011-06-28 11:23:26,922 turbogears.identity.soprovider INFO Associating user (admin) with visit (091ad3c8430a47b9b1b29f8437101e32ec733e7c)
+[ Jun 29 05:00:42 Stopping because service restarting. ]
+[ Jun 29 05:00:42 Executing stop method ("/usr/bin/nmv.py stop"). ]
+2011-06-29 05:00:42,431 cherrypy.msg INFO HTTP: HTTP Server shut down
+2011-06-29 05:00:42,432 turbogears.visit INFO Visit Tracking shutting down
+2011-06-29 05:00:42,442 turbogears.identity INFO Identity shutting down
+2011-06-29 05:00:42,442 nmv.controllers INFO Killing multiplex
+2011-06-29 05:00:42,943 turbogears.startup INFO Scheduler stopped
+2011-06-29 05:00:42,944 cherrypy.msg INFO ENGINE: CherryPy shut down
+[ Jun 29 05:00:43 Method "stop" exited with status 0. ]
+[ Jun 29 05:00:43 Executing start method ("/usr/bin/nmv.py"). ]
+NMV daemonized...
+[ Jun 29 05:00:43 Method "start" exited with status 0. ]
+2011-06-29 05:00:45,785 cherrypy.msg INFO CONFIG: Server parameters:
+2011-06-29 05:00:45,785 cherrypy.msg INFO CONFIG:   server.environment: production
+2011-06-29 05:00:45,785 cherrypy.msg INFO CONFIG:   server.log_to_screen: True
+2011-06-29 05:00:45,786 cherrypy.msg INFO CONFIG:   server.log_file: 
+2011-06-29 05:00:45,786 cherrypy.msg INFO CONFIG:   server.log_tracebacks: True
+2011-06-29 05:00:45,786 cherrypy.msg INFO CONFIG:   server.log_request_headers: False
+2011-06-29 05:00:45,786 cherrypy.msg INFO CONFIG:   server.protocol_version: HTTP/1.1
+2011-06-29 05:00:45,786 cherrypy.msg INFO CONFIG:   server.socket_host: 127.0.0.1
+2011-06-29 05:00:45,786 cherrypy.msg INFO CONFIG:   server.socket_port: 3000
+2011-06-29 05:00:45,786 cherrypy.msg INFO CONFIG:   server.socket_file: 
+2011-06-29 05:00:45,787 cherrypy.msg INFO CONFIG:   server.reverse_dns: False
+2011-06-29 05:00:45,787 cherrypy.msg INFO CONFIG:   server.socket_queue_size: 25
+2011-06-29 05:00:45,787 cherrypy.msg INFO CONFIG:   server.thread_pool: 50
+2011-06-29 05:00:45,798 turbogears.visit INFO Visit Tracking starting
+2011-06-29 05:00:45,800 turbogears.visit.sovisit INFO Succesfully loaded "nmv.model.Visit"
+2011-06-29 05:00:45,801 turbogears.visit INFO Visit filter initialised
+2011-06-29 05:00:45,801 turbogears.identity INFO Identity starting
+2011-06-29 05:00:45,801 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-06-29 05:00:45,801 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-06-29 05:00:45,801 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-06-29 05:00:45,802 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-06-29 05:00:45,802 turbogears.identity INFO Identity visit plugin initialised
+2011-06-29 05:00:45,802 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-06-29 05:00:45,803 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-06-29 05:00:45,803 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-06-29 05:00:45,803 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-06-29 05:00:45,803 nmv INFO PID = 26343
+2011-06-29 05:00:45,805 nmv.filters.states INFO <LicenseStateChecker per 60 seconds> state checker registered
+2011-06-29 05:00:45,805 nmv.filters.states INFO <UnregisteredPluginsStateChecker per 60 seconds> state checker registered
+2011-06-29 05:00:45,805 nmv.filters.states INFO <UnconfirmedEulasStateChecker per 60 seconds> state checker registered
+2011-06-29 05:00:45,805 nmv.theme.base INFO Looking for NMV themes under "/var/lib/nza/themes/nmv"
+2011-06-29 05:00:45,806 nmv.theme.base INFO Theme "nexenta" loaded
+2011-06-29 05:00:45,806 nmv.theme.base INFO Current theme is "Nexenta". Default theme is "Nexenta".
+2011-06-29 05:00:45,812 nmv.plugins INFO Imported plugin "nmv-autosmart"
+2011-06-29 05:00:45,836 nmv.plugins INFO Initialized plugin "nmv-autosmart"
+2011-06-29 05:00:45,839 nmv.plugins INFO Imported plugin "nmv-comstar"
+2011-06-29 05:00:46,129 nmv.plugins INFO Initialized plugin "nmv-comstar"
+2011-06-29 05:00:46,132 nmv.plugins INFO Imported plugin "nmv-autosync"
+2011-06-29 05:00:46,154 nmv.plugins INFO Initialized plugin "nmv-autosync"
+2011-06-29 05:00:46,156 nmv.jobs INFO Job "ListAppliancesCheckJob" registered with 600 seconds interval
+2011-06-29 05:00:46,156 nmv.jobs INFO Job "CheckScrubbingProgress" registered with 1800 seconds interval
+2011-06-29 05:00:46,156 nmv.jobs INFO Job "CheckSystemNotices" registered with 60 seconds interval
+2011-06-29 05:00:46,156 nmv.jobs INFO Job "CheckAvailableUpgrades" registered with 0 seconds interval
+2011-06-29 05:00:46,156 nmv.state INFO State changed from stop to running
+2011-06-29 05:00:46,157 turbogears.startup INFO Scheduler started
+2011-06-29 05:00:46,358 cherrypy.msg INFO HTTP: Serving HTTP on http://127.0.0.1:3000/
+2011-06-29 16:50:20,282 turbogears.identity.soprovider INFO Associating user (admin) with visit (3f9a3c2a8a0b4fe92a07cf64662d079ce21913b1)
+[ Jun 29 17:22:01 Stopping because dependency activity requires stop. ]
+[ Jun 29 17:22:01 Executing stop method ("/usr/bin/nmv.py stop"). ]
+2011-06-29 17:22:01,912 cherrypy.msg INFO HTTP: HTTP Server shut down
+2011-06-29 17:22:01,913 turbogears.visit INFO Visit Tracking shutting down
+2011-06-29 17:22:01,921 turbogears.identity INFO Identity shutting down
+2011-06-29 17:22:01,921 nmv.controllers INFO Killing multiplex
+2011-06-29 17:22:02,566 turbogears.startup INFO Scheduler stopped
+2011-06-29 17:22:02,566 cherrypy.msg INFO ENGINE: CherryPy shut down
+[ Jun 29 17:22:02 Method "stop" exited with status 0. ]
+[ Jun 29 17:22:05 Executing start method ("/usr/bin/nmv.py"). ]
+NMV daemonized...
+[ Jun 29 17:22:05 Method "start" exited with status 0. ]
+2011-06-29 17:22:08,289 cherrypy.msg INFO CONFIG: Server parameters:
+2011-06-29 17:22:08,290 cherrypy.msg INFO CONFIG:   server.environment: production
+2011-06-29 17:22:08,290 cherrypy.msg INFO CONFIG:   server.log_to_screen: True
+2011-06-29 17:22:08,290 cherrypy.msg INFO CONFIG:   server.log_file: 
+2011-06-29 17:22:08,290 cherrypy.msg INFO CONFIG:   server.log_tracebacks: True
+2011-06-29 17:22:08,290 cherrypy.msg INFO CONFIG:   server.log_request_headers: False
+2011-06-29 17:22:08,291 cherrypy.msg INFO CONFIG:   server.protocol_version: HTTP/1.1
+2011-06-29 17:22:08,291 cherrypy.msg INFO CONFIG:   server.socket_host: 127.0.0.1
+2011-06-29 17:22:08,291 cherrypy.msg INFO CONFIG:   server.socket_port: 3000
+2011-06-29 17:22:08,291 cherrypy.msg INFO CONFIG:   server.socket_file: 
+2011-06-29 17:22:08,291 cherrypy.msg INFO CONFIG:   server.reverse_dns: False
+2011-06-29 17:22:08,291 cherrypy.msg INFO CONFIG:   server.socket_queue_size: 25
+2011-06-29 17:22:08,291 cherrypy.msg INFO CONFIG:   server.thread_pool: 50
+2011-06-29 17:22:08,313 turbogears.visit INFO Visit Tracking starting
+2011-06-29 17:22:08,315 turbogears.visit.sovisit INFO Succesfully loaded "nmv.model.Visit"
+2011-06-29 17:22:08,316 turbogears.visit INFO Visit filter initialised
+2011-06-29 17:22:08,317 turbogears.identity INFO Identity starting
+2011-06-29 17:22:08,317 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-06-29 17:22:08,317 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-06-29 17:22:08,317 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-06-29 17:22:08,317 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-06-29 17:22:08,321 turbogears.identity INFO Identity visit plugin initialised
+2011-06-29 17:22:08,322 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-06-29 17:22:08,322 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-06-29 17:22:08,322 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-06-29 17:22:08,322 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-06-29 17:22:08,322 nmv INFO PID = 15619
+2011-06-29 17:22:08,327 nmv.filters.states INFO <LicenseStateChecker per 60 seconds> state checker registered
+2011-06-29 17:22:08,327 nmv.filters.states INFO <UnregisteredPluginsStateChecker per 60 seconds> state checker registered
+2011-06-29 17:22:08,327 nmv.filters.states INFO <UnconfirmedEulasStateChecker per 60 seconds> state checker registered
+2011-06-29 17:22:08,328 nmv.theme.base INFO Looking for NMV themes under "/var/lib/nza/themes/nmv"
+2011-06-29 17:22:08,329 nmv.theme.base INFO Theme "nexenta" loaded
+2011-06-29 17:22:08,329 nmv.theme.base INFO Current theme is "Nexenta". Default theme is "Nexenta".
+2011-06-29 17:22:08,338 nmv.plugins INFO Imported plugin "nmv-autosmart"
+2011-06-29 17:22:08,364 nmv.plugins INFO Initialized plugin "nmv-autosmart"
+2011-06-29 17:22:08,367 nmv.plugins INFO Imported plugin "nmv-comstar"
+2011-06-29 17:22:08,774 nmv.plugins INFO Initialized plugin "nmv-comstar"
+2011-06-29 17:22:08,779 nmv.plugins INFO Imported plugin "nmv-autosync"
+2011-06-29 17:22:08,803 nmv.plugins INFO Initialized plugin "nmv-autosync"
+2011-06-29 17:22:08,806 nmv.jobs INFO Job "ListAppliancesCheckJob" registered with 600 seconds interval
+2011-06-29 17:22:08,806 nmv.jobs INFO Job "CheckScrubbingProgress" registered with 1800 seconds interval
+2011-06-29 17:22:08,806 nmv.jobs INFO Job "CheckSystemNotices" registered with 60 seconds interval
+2011-06-29 17:22:08,806 nmv.jobs INFO Job "CheckAvailableUpgrades" registered with 0 seconds interval
+2011-06-29 17:22:08,806 nmv.state INFO State changed from stop to running
+2011-06-29 17:22:08,807 turbogears.startup INFO Scheduler started
+2011-06-29 17:22:09,008 cherrypy.msg INFO HTTP: Serving HTTP on http://127.0.0.1:3000/
+[ Jun 30 05:00:42 Stopping because service restarting. ]
+[ Jun 30 05:00:42 Executing stop method ("/usr/bin/nmv.py stop"). ]
+2011-06-30 05:00:42,474 cherrypy.msg INFO HTTP: HTTP Server shut down
+2011-06-30 05:00:42,474 turbogears.visit INFO Visit Tracking shutting down
+2011-06-30 05:00:42,517 turbogears.identity INFO Identity shutting down
+2011-06-30 05:00:42,517 nmv.controllers INFO Killing multiplex
+2011-06-30 05:00:43,060 turbogears.startup INFO Scheduler stopped
+2011-06-30 05:00:43,060 cherrypy.msg INFO ENGINE: CherryPy shut down
+[ Jun 30 05:00:43 Method "stop" exited with status 0. ]
+[ Jun 30 05:00:43 Executing start method ("/usr/bin/nmv.py"). ]
+NMV daemonized...
+[ Jun 30 05:00:43 Method "start" exited with status 0. ]
+2011-06-30 05:00:46,351 cherrypy.msg INFO CONFIG: Server parameters:
+2011-06-30 05:00:46,351 cherrypy.msg INFO CONFIG:   server.environment: production
+2011-06-30 05:00:46,351 cherrypy.msg INFO CONFIG:   server.log_to_screen: True
+2011-06-30 05:00:46,351 cherrypy.msg INFO CONFIG:   server.log_file: 
+2011-06-30 05:00:46,352 cherrypy.msg INFO CONFIG:   server.log_tracebacks: True
+2011-06-30 05:00:46,352 cherrypy.msg INFO CONFIG:   server.log_request_headers: False
+2011-06-30 05:00:46,352 cherrypy.msg INFO CONFIG:   server.protocol_version: HTTP/1.1
+2011-06-30 05:00:46,352 cherrypy.msg INFO CONFIG:   server.socket_host: 127.0.0.1
+2011-06-30 05:00:46,352 cherrypy.msg INFO CONFIG:   server.socket_port: 3000
+2011-06-30 05:00:46,352 cherrypy.msg INFO CONFIG:   server.socket_file: 
+2011-06-30 05:00:46,352 cherrypy.msg INFO CONFIG:   server.reverse_dns: False
+2011-06-30 05:00:46,353 cherrypy.msg INFO CONFIG:   server.socket_queue_size: 25
+2011-06-30 05:00:46,353 cherrypy.msg INFO CONFIG:   server.thread_pool: 50
+2011-06-30 05:00:46,374 turbogears.visit INFO Visit Tracking starting
+2011-06-30 05:00:46,376 turbogears.visit.sovisit INFO Succesfully loaded "nmv.model.Visit"
+2011-06-30 05:00:46,376 turbogears.visit INFO Visit filter initialised
+2011-06-30 05:00:46,377 turbogears.identity INFO Identity starting
+2011-06-30 05:00:46,377 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-06-30 05:00:46,377 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-06-30 05:00:46,377 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-06-30 05:00:46,377 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-06-30 05:00:46,378 turbogears.identity INFO Identity visit plugin initialised
+2011-06-30 05:00:46,378 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-06-30 05:00:46,378 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-06-30 05:00:46,379 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-06-30 05:00:46,379 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-06-30 05:00:46,379 nmv INFO PID = 23414
+2011-06-30 05:00:46,383 nmv.filters.states INFO <LicenseStateChecker per 60 seconds> state checker registered
+2011-06-30 05:00:46,383 nmv.filters.states INFO <UnregisteredPluginsStateChecker per 60 seconds> state checker registered
+2011-06-30 05:00:46,383 nmv.filters.states INFO <UnconfirmedEulasStateChecker per 60 seconds> state checker registered
+2011-06-30 05:00:46,383 nmv.theme.base INFO Looking for NMV themes under "/var/lib/nza/themes/nmv"
+2011-06-30 05:00:46,385 nmv.theme.base INFO Theme "nexenta" loaded
+2011-06-30 05:00:46,385 nmv.theme.base INFO Current theme is "Nexenta". Default theme is "Nexenta".
+2011-06-30 05:00:46,391 nmv.plugins INFO Imported plugin "nmv-autosmart"
+2011-06-30 05:00:46,417 nmv.plugins INFO Initialized plugin "nmv-autosmart"
+2011-06-30 05:00:46,420 nmv.plugins INFO Imported plugin "nmv-comstar"
+2011-06-30 05:00:46,725 nmv.plugins INFO Initialized plugin "nmv-comstar"
+2011-06-30 05:00:46,729 nmv.plugins INFO Imported plugin "nmv-autosync"
+2011-06-30 05:00:46,752 nmv.plugins INFO Initialized plugin "nmv-autosync"
+2011-06-30 05:00:46,755 nmv.jobs INFO Job "ListAppliancesCheckJob" registered with 600 seconds interval
+2011-06-30 05:00:46,755 nmv.jobs INFO Job "CheckScrubbingProgress" registered with 1800 seconds interval
+2011-06-30 05:00:46,755 nmv.jobs INFO Job "CheckSystemNotices" registered with 60 seconds interval
+2011-06-30 05:00:46,755 nmv.jobs INFO Job "CheckAvailableUpgrades" registered with 0 seconds interval
+2011-06-30 05:00:46,755 nmv.state INFO State changed from stop to running
+2011-06-30 05:00:46,756 turbogears.startup INFO Scheduler started
+2011-06-30 05:00:46,957 cherrypy.msg INFO HTTP: Serving HTTP on http://127.0.0.1:3000/
+[ Jul  1 05:00:46 Stopping because service restarting. ]
+[ Jul  1 05:00:46 Executing stop method ("/usr/bin/nmv.py stop"). ]
+2011-07-01 05:00:46,816 cherrypy.msg INFO HTTP: HTTP Server shut down
+2011-07-01 05:00:46,816 turbogears.visit INFO Visit Tracking shutting down
+2011-07-01 05:00:46,822 turbogears.identity INFO Identity shutting down
+2011-07-01 05:00:46,822 nmv.controllers INFO Killing multiplex
+2011-07-01 05:00:46,852 turbogears.startup INFO Scheduler stopped
+2011-07-01 05:00:46,852 cherrypy.msg INFO ENGINE: CherryPy shut down
+[ Jul  1 05:00:47 Method "stop" exited with status 0. ]
+[ Jul  1 05:00:47 Executing start method ("/usr/bin/nmv.py"). ]
+NMV daemonized...
+[ Jul  1 05:00:47 Method "start" exited with status 0. ]
+2011-07-01 05:00:50,503 cherrypy.msg INFO CONFIG: Server parameters:
+2011-07-01 05:00:50,503 cherrypy.msg INFO CONFIG:   server.environment: production
+2011-07-01 05:00:50,503 cherrypy.msg INFO CONFIG:   server.log_to_screen: True
+2011-07-01 05:00:50,503 cherrypy.msg INFO CONFIG:   server.log_file: 
+2011-07-01 05:00:50,503 cherrypy.msg INFO CONFIG:   server.log_tracebacks: True
+2011-07-01 05:00:50,504 cherrypy.msg INFO CONFIG:   server.log_request_headers: False
+2011-07-01 05:00:50,504 cherrypy.msg INFO CONFIG:   server.protocol_version: HTTP/1.1
+2011-07-01 05:00:50,504 cherrypy.msg INFO CONFIG:   server.socket_host: 127.0.0.1
+2011-07-01 05:00:50,504 cherrypy.msg INFO CONFIG:   server.socket_port: 3000
+2011-07-01 05:00:50,504 cherrypy.msg INFO CONFIG:   server.socket_file: 
+2011-07-01 05:00:50,504 cherrypy.msg INFO CONFIG:   server.reverse_dns: False
+2011-07-01 05:00:50,504 cherrypy.msg INFO CONFIG:   server.socket_queue_size: 25
+2011-07-01 05:00:50,505 cherrypy.msg INFO CONFIG:   server.thread_pool: 50
+2011-07-01 05:00:50,525 turbogears.visit INFO Visit Tracking starting
+2011-07-01 05:00:50,527 turbogears.visit.sovisit INFO Succesfully loaded "nmv.model.Visit"
+2011-07-01 05:00:50,528 turbogears.visit INFO Visit filter initialised
+2011-07-01 05:00:50,528 turbogears.identity INFO Identity starting
+2011-07-01 05:00:50,529 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-07-01 05:00:50,529 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-07-01 05:00:50,529 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-07-01 05:00:50,529 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-07-01 05:00:50,530 turbogears.identity INFO Identity visit plugin initialised
+2011-07-01 05:00:50,530 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-07-01 05:00:50,530 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-07-01 05:00:50,530 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-07-01 05:00:50,530 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-07-01 05:00:50,531 nmv INFO PID = 9689
+2011-07-01 05:00:50,534 nmv.filters.states INFO <LicenseStateChecker per 60 seconds> state checker registered
+2011-07-01 05:00:50,534 nmv.filters.states INFO <UnregisteredPluginsStateChecker per 60 seconds> state checker registered
+2011-07-01 05:00:50,535 nmv.filters.states INFO <UnconfirmedEulasStateChecker per 60 seconds> state checker registered
+2011-07-01 05:00:50,535 nmv.theme.base INFO Looking for NMV themes under "/var/lib/nza/themes/nmv"
+2011-07-01 05:00:50,536 nmv.theme.base INFO Theme "nexenta" loaded
+2011-07-01 05:00:50,536 nmv.theme.base INFO Current theme is "Nexenta". Default theme is "Nexenta".
+2011-07-01 05:00:50,542 nmv.plugins INFO Imported plugin "nmv-autosmart"
+2011-07-01 05:00:50,567 nmv.plugins INFO Initialized plugin "nmv-autosmart"
+2011-07-01 05:00:50,572 nmv.plugins INFO Imported plugin "nmv-comstar"
+2011-07-01 05:00:50,877 nmv.plugins INFO Initialized plugin "nmv-comstar"
+2011-07-01 05:00:50,880 nmv.plugins INFO Imported plugin "nmv-autosync"
+2011-07-01 05:00:50,904 nmv.plugins INFO Initialized plugin "nmv-autosync"
+2011-07-01 05:00:50,907 nmv.jobs INFO Job "ListAppliancesCheckJob" registered with 600 seconds interval
+2011-07-01 05:00:50,907 nmv.jobs INFO Job "CheckScrubbingProgress" registered with 1800 seconds interval
+2011-07-01 05:00:50,907 nmv.jobs INFO Job "CheckSystemNotices" registered with 60 seconds interval
+2011-07-01 05:00:50,907 nmv.jobs INFO Job "CheckAvailableUpgrades" registered with 0 seconds interval
+2011-07-01 05:00:50,907 nmv.state INFO State changed from stop to running
+2011-07-01 05:00:50,908 turbogears.startup INFO Scheduler started
+2011-07-01 05:00:51,110 cherrypy.msg INFO HTTP: Serving HTTP on http://127.0.0.1:3000/
+[ Jul  2 05:00:47 Stopping because service restarting. ]
+[ Jul  2 05:00:47 Executing stop method ("/usr/bin/nmv.py stop"). ]
+2011-07-02 05:00:48,029 cherrypy.msg INFO HTTP: HTTP Server shut down
+2011-07-02 05:00:48,030 turbogears.visit INFO Visit Tracking shutting down
+2011-07-02 05:00:48,065 turbogears.identity INFO Identity shutting down
+2011-07-02 05:00:48,065 nmv.controllers INFO Killing multiplex
+2011-07-02 05:00:48,410 turbogears.startup INFO Scheduler stopped
+2011-07-02 05:00:48,411 cherrypy.msg INFO ENGINE: CherryPy shut down
+[ Jul  2 05:00:49 Method "stop" exited with status 0. ]
+[ Jul  2 05:00:49 Executing start method ("/usr/bin/nmv.py"). ]
+NMV daemonized...
+[ Jul  2 05:00:49 Method "start" exited with status 0. ]
+2011-07-02 05:00:51,864 cherrypy.msg INFO CONFIG: Server parameters:
+2011-07-02 05:00:51,864 cherrypy.msg INFO CONFIG:   server.environment: production
+2011-07-02 05:00:51,864 cherrypy.msg INFO CONFIG:   server.log_to_screen: True
+2011-07-02 05:00:51,864 cherrypy.msg INFO CONFIG:   server.log_file: 
+2011-07-02 05:00:51,864 cherrypy.msg INFO CONFIG:   server.log_tracebacks: True
+2011-07-02 05:00:51,864 cherrypy.msg INFO CONFIG:   server.log_request_headers: False
+2011-07-02 05:00:51,865 cherrypy.msg INFO CONFIG:   server.protocol_version: HTTP/1.1
+2011-07-02 05:00:51,865 cherrypy.msg INFO CONFIG:   server.socket_host: 127.0.0.1
+2011-07-02 05:00:51,865 cherrypy.msg INFO CONFIG:   server.socket_port: 3000
+2011-07-02 05:00:51,865 cherrypy.msg INFO CONFIG:   server.socket_file: 
+2011-07-02 05:00:51,865 cherrypy.msg INFO CONFIG:   server.reverse_dns: False
+2011-07-02 05:00:51,865 cherrypy.msg INFO CONFIG:   server.socket_queue_size: 25
+2011-07-02 05:00:51,865 cherrypy.msg INFO CONFIG:   server.thread_pool: 50
+2011-07-02 05:00:51,882 turbogears.visit INFO Visit Tracking starting
+2011-07-02 05:00:51,884 turbogears.visit.sovisit INFO Succesfully loaded "nmv.model.Visit"
+2011-07-02 05:00:51,884 turbogears.visit INFO Visit filter initialised
+2011-07-02 05:00:51,885 turbogears.identity INFO Identity starting
+2011-07-02 05:00:51,885 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-07-02 05:00:51,885 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-07-02 05:00:51,885 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-07-02 05:00:51,885 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-07-02 05:00:51,886 turbogears.identity INFO Identity visit plugin initialised
+2011-07-02 05:00:51,886 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-07-02 05:00:51,886 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-07-02 05:00:51,887 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-07-02 05:00:51,887 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-07-02 05:00:51,887 nmv INFO PID = 25934
+2011-07-02 05:00:51,890 nmv.filters.states INFO <LicenseStateChecker per 60 seconds> state checker registered
+2011-07-02 05:00:51,890 nmv.filters.states INFO <UnregisteredPluginsStateChecker per 60 seconds> state checker registered
+2011-07-02 05:00:51,891 nmv.filters.states INFO <UnconfirmedEulasStateChecker per 60 seconds> state checker registered
+2011-07-02 05:00:51,891 nmv.theme.base INFO Looking for NMV themes under "/var/lib/nza/themes/nmv"
+2011-07-02 05:00:51,892 nmv.theme.base INFO Theme "nexenta" loaded
+2011-07-02 05:00:51,892 nmv.theme.base INFO Current theme is "Nexenta". Default theme is "Nexenta".
+2011-07-02 05:00:51,897 nmv.plugins INFO Imported plugin "nmv-autosmart"
+2011-07-02 05:00:51,922 nmv.plugins INFO Initialized plugin "nmv-autosmart"
+2011-07-02 05:00:51,925 nmv.plugins INFO Imported plugin "nmv-comstar"
+2011-07-02 05:00:52,221 nmv.plugins INFO Initialized plugin "nmv-comstar"
+2011-07-02 05:00:52,503 nmv.plugins INFO Imported plugin "nmv-autosync"
+2011-07-02 05:00:52,531 nmv.plugins INFO Initialized plugin "nmv-autosync"
+2011-07-02 05:00:52,536 nmv.jobs INFO Job "ListAppliancesCheckJob" registered with 600 seconds interval
+2011-07-02 05:00:52,536 nmv.jobs INFO Job "CheckScrubbingProgress" registered with 1800 seconds interval
+2011-07-02 05:00:52,536 nmv.jobs INFO Job "CheckSystemNotices" registered with 60 seconds interval
+2011-07-02 05:00:52,536 nmv.jobs INFO Job "CheckAvailableUpgrades" registered with 0 seconds interval
+2011-07-02 05:00:52,536 nmv.state INFO State changed from stop to running
+2011-07-02 05:00:52,537 turbogears.startup INFO Scheduler started
+2011-07-02 05:00:52,739 cherrypy.msg INFO HTTP: Serving HTTP on http://127.0.0.1:3000/
+[ Jul  3 05:00:42 Stopping because service restarting. ]
+[ Jul  3 05:00:42 Executing stop method ("/usr/bin/nmv.py stop"). ]
+2011-07-03 05:00:42,852 cherrypy.msg INFO HTTP: HTTP Server shut down
+2011-07-03 05:00:42,853 turbogears.visit INFO Visit Tracking shutting down
+2011-07-03 05:00:42,896 turbogears.identity INFO Identity shutting down
+2011-07-03 05:00:42,897 nmv.controllers INFO Killing multiplex
+2011-07-03 05:00:43,572 turbogears.startup INFO Scheduler stopped
+2011-07-03 05:00:43,573 cherrypy.msg INFO ENGINE: CherryPy shut down
+[ Jul  3 05:00:43 Method "stop" exited with status 0. ]
+[ Jul  3 05:00:43 Executing start method ("/usr/bin/nmv.py"). ]
+NMV daemonized...
+[ Jul  3 05:00:43 Method "start" exited with status 0. ]
+2011-07-03 05:00:46,527 cherrypy.msg INFO CONFIG: Server parameters:
+2011-07-03 05:00:46,527 cherrypy.msg INFO CONFIG:   server.environment: production
+2011-07-03 05:00:46,528 cherrypy.msg INFO CONFIG:   server.log_to_screen: True
+2011-07-03 05:00:46,528 cherrypy.msg INFO CONFIG:   server.log_file: 
+2011-07-03 05:00:46,528 cherrypy.msg INFO CONFIG:   server.log_tracebacks: True
+2011-07-03 05:00:46,528 cherrypy.msg INFO CONFIG:   server.log_request_headers: False
+2011-07-03 05:00:46,529 cherrypy.msg INFO CONFIG:   server.protocol_version: HTTP/1.1
+2011-07-03 05:00:46,529 cherrypy.msg INFO CONFIG:   server.socket_host: 127.0.0.1
+2011-07-03 05:00:46,529 cherrypy.msg INFO CONFIG:   server.socket_port: 3000
+2011-07-03 05:00:46,529 cherrypy.msg INFO CONFIG:   server.socket_file: 
+2011-07-03 05:00:46,529 cherrypy.msg INFO CONFIG:   server.reverse_dns: False
+2011-07-03 05:00:46,530 cherrypy.msg INFO CONFIG:   server.socket_queue_size: 25
+2011-07-03 05:00:46,530 cherrypy.msg INFO CONFIG:   server.thread_pool: 50
+2011-07-03 05:00:46,546 turbogears.visit INFO Visit Tracking starting
+2011-07-03 05:00:46,547 turbogears.visit.sovisit INFO Succesfully loaded "nmv.model.Visit"
+2011-07-03 05:00:46,548 turbogears.visit INFO Visit filter initialised
+2011-07-03 05:00:46,549 turbogears.identity INFO Identity starting
+2011-07-03 05:00:46,549 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-07-03 05:00:46,549 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-07-03 05:00:46,549 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-07-03 05:00:46,549 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-07-03 05:00:46,550 turbogears.identity INFO Identity visit plugin initialised
+2011-07-03 05:00:46,550 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-07-03 05:00:46,550 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-07-03 05:00:46,550 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-07-03 05:00:46,550 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-07-03 05:00:46,551 nmv INFO PID = 2676
+2011-07-03 05:00:46,553 nmv.filters.states INFO <LicenseStateChecker per 60 seconds> state checker registered
+2011-07-03 05:00:46,553 nmv.filters.states INFO <UnregisteredPluginsStateChecker per 60 seconds> state checker registered
+2011-07-03 05:00:46,553 nmv.filters.states INFO <UnconfirmedEulasStateChecker per 60 seconds> state checker registered
+2011-07-03 05:00:46,553 nmv.theme.base INFO Looking for NMV themes under "/var/lib/nza/themes/nmv"
+2011-07-03 05:00:46,555 nmv.theme.base INFO Theme "nexenta" loaded
+2011-07-03 05:00:46,555 nmv.theme.base INFO Current theme is "Nexenta". Default theme is "Nexenta".
+2011-07-03 05:00:46,561 nmv.plugins INFO Imported plugin "nmv-autosmart"
+2011-07-03 05:00:46,585 nmv.plugins INFO Initialized plugin "nmv-autosmart"
+2011-07-03 05:00:46,589 nmv.plugins INFO Imported plugin "nmv-comstar"
+2011-07-03 05:00:46,880 nmv.plugins INFO Initialized plugin "nmv-comstar"
+2011-07-03 05:00:46,883 nmv.plugins INFO Imported plugin "nmv-autosync"
+2011-07-03 05:00:46,905 nmv.plugins INFO Initialized plugin "nmv-autosync"
+2011-07-03 05:00:46,907 nmv.jobs INFO Job "ListAppliancesCheckJob" registered with 600 seconds interval
+2011-07-03 05:00:46,907 nmv.jobs INFO Job "CheckScrubbingProgress" registered with 1800 seconds interval
+2011-07-03 05:00:46,907 nmv.jobs INFO Job "CheckSystemNotices" registered with 60 seconds interval
+2011-07-03 05:00:46,907 nmv.jobs INFO Job "CheckAvailableUpgrades" registered with 0 seconds interval
+2011-07-03 05:00:46,907 nmv.state INFO State changed from stop to running
+2011-07-03 05:00:46,907 turbogears.startup INFO Scheduler started
+2011-07-03 05:00:47,109 cherrypy.msg INFO HTTP: Serving HTTP on http://127.0.0.1:3000/
+[ Jul  4 05:00:42 Stopping because service restarting. ]
+[ Jul  4 05:00:42 Executing stop method ("/usr/bin/nmv.py stop"). ]
+2011-07-04 05:00:42,336 cherrypy.msg INFO HTTP: HTTP Server shut down
+2011-07-04 05:00:42,336 turbogears.visit INFO Visit Tracking shutting down
+2011-07-04 05:00:42,371 turbogears.identity INFO Identity shutting down
+2011-07-04 05:00:42,371 nmv.controllers INFO Killing multiplex
+[ Jul  4 05:00:43 Method "stop" exited with status 0. ]
+2011-07-04 05:00:43,351 turbogears.startup INFO Scheduler stopped
+2011-07-04 05:00:43,352 cherrypy.msg INFO ENGINE: CherryPy shut down
+[ Jul  4 05:00:43 Executing start method ("/usr/bin/nmv.py"). ]
+NMV daemonized...
+[ Jul  4 05:00:43 Method "start" exited with status 0. ]
+2011-07-04 05:00:46,042 cherrypy.msg INFO CONFIG: Server parameters:
+2011-07-04 05:00:46,043 cherrypy.msg INFO CONFIG:   server.environment: production
+2011-07-04 05:00:46,043 cherrypy.msg INFO CONFIG:   server.log_to_screen: True
+2011-07-04 05:00:46,043 cherrypy.msg INFO CONFIG:   server.log_file: 
+2011-07-04 05:00:46,043 cherrypy.msg INFO CONFIG:   server.log_tracebacks: True
+2011-07-04 05:00:46,044 cherrypy.msg INFO CONFIG:   server.log_request_headers: False
+2011-07-04 05:00:46,044 cherrypy.msg INFO CONFIG:   server.protocol_version: HTTP/1.1
+2011-07-04 05:00:46,044 cherrypy.msg INFO CONFIG:   server.socket_host: 127.0.0.1
+2011-07-04 05:00:46,044 cherrypy.msg INFO CONFIG:   server.socket_port: 3000
+2011-07-04 05:00:46,044 cherrypy.msg INFO CONFIG:   server.socket_file: 
+2011-07-04 05:00:46,045 cherrypy.msg INFO CONFIG:   server.reverse_dns: False
+2011-07-04 05:00:46,045 cherrypy.msg INFO CONFIG:   server.socket_queue_size: 25
+2011-07-04 05:00:46,045 cherrypy.msg INFO CONFIG:   server.thread_pool: 50
+2011-07-04 05:00:46,059 turbogears.visit INFO Visit Tracking starting
+2011-07-04 05:00:46,061 turbogears.visit.sovisit INFO Succesfully loaded "nmv.model.Visit"
+2011-07-04 05:00:46,063 turbogears.visit INFO Visit filter initialised
+2011-07-04 05:00:46,063 turbogears.identity INFO Identity starting
+2011-07-04 05:00:46,064 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-07-04 05:00:46,064 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-07-04 05:00:46,064 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-07-04 05:00:46,064 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-07-04 05:00:46,065 turbogears.identity INFO Identity visit plugin initialised
+2011-07-04 05:00:46,065 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-07-04 05:00:46,066 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-07-04 05:00:46,066 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-07-04 05:00:46,066 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-07-04 05:00:46,066 nmv INFO PID = 7036
+2011-07-04 05:00:46,069 nmv.filters.states INFO <LicenseStateChecker per 60 seconds> state checker registered
+2011-07-04 05:00:46,069 nmv.filters.states INFO <UnregisteredPluginsStateChecker per 60 seconds> state checker registered
+2011-07-04 05:00:46,069 nmv.filters.states INFO <UnconfirmedEulasStateChecker per 60 seconds> state checker registered
+2011-07-04 05:00:46,069 nmv.theme.base INFO Looking for NMV themes under "/var/lib/nza/themes/nmv"
+2011-07-04 05:00:46,070 nmv.theme.base INFO Theme "nexenta" loaded
+2011-07-04 05:00:46,070 nmv.theme.base INFO Current theme is "Nexenta". Default theme is "Nexenta".
+2011-07-04 05:00:46,078 nmv.plugins INFO Imported plugin "nmv-autosmart"
+2011-07-04 05:00:46,114 nmv.plugins INFO Initialized plugin "nmv-autosmart"
+2011-07-04 05:00:46,117 nmv.plugins INFO Imported plugin "nmv-comstar"
+2011-07-04 05:00:46,424 nmv.plugins INFO Initialized plugin "nmv-comstar"
+2011-07-04 05:00:46,426 nmv.plugins INFO Imported plugin "nmv-autosync"
+2011-07-04 05:00:46,448 nmv.plugins INFO Initialized plugin "nmv-autosync"
+2011-07-04 05:00:46,450 nmv.jobs INFO Job "ListAppliancesCheckJob" registered with 600 seconds interval
+2011-07-04 05:00:46,450 nmv.jobs INFO Job "CheckScrubbingProgress" registered with 1800 seconds interval
+2011-07-04 05:00:46,450 nmv.jobs INFO Job "CheckSystemNotices" registered with 60 seconds interval
+2011-07-04 05:00:46,450 nmv.jobs INFO Job "CheckAvailableUpgrades" registered with 0 seconds interval
+2011-07-04 05:00:46,450 nmv.state INFO State changed from stop to running
+2011-07-04 05:00:46,450 turbogears.startup INFO Scheduler started
+2011-07-04 05:00:46,652 cherrypy.msg INFO HTTP: Serving HTTP on http://127.0.0.1:3000/
+[ Jul  5 05:00:42 Stopping because service restarting. ]
+[ Jul  5 05:00:42 Executing stop method ("/usr/bin/nmv.py stop"). ]
+2011-07-05 05:00:42,056 cherrypy.msg INFO HTTP: HTTP Server shut down
+2011-07-05 05:00:42,057 turbogears.visit INFO Visit Tracking shutting down
+2011-07-05 05:00:42,065 turbogears.identity INFO Identity shutting down
+2011-07-05 05:00:42,065 nmv.controllers INFO Killing multiplex
+2011-07-05 05:00:42,494 turbogears.startup INFO Scheduler stopped
+2011-07-05 05:00:42,495 cherrypy.msg INFO ENGINE: CherryPy shut down
+[ Jul  5 05:00:43 Method "stop" exited with status 0. ]
+[ Jul  5 05:00:43 Executing start method ("/usr/bin/nmv.py"). ]
+NMV daemonized...
+[ Jul  5 05:00:43 Method "start" exited with status 0. ]
+2011-07-05 05:00:45,396 cherrypy.msg INFO CONFIG: Server parameters:
+2011-07-05 05:00:45,397 cherrypy.msg INFO CONFIG:   server.environment: production
+2011-07-05 05:00:45,397 cherrypy.msg INFO CONFIG:   server.log_to_screen: True
+2011-07-05 05:00:45,397 cherrypy.msg INFO CONFIG:   server.log_file: 
+2011-07-05 05:00:45,397 cherrypy.msg INFO CONFIG:   server.log_tracebacks: True
+2011-07-05 05:00:45,398 cherrypy.msg INFO CONFIG:   server.log_request_headers: False
+2011-07-05 05:00:45,398 cherrypy.msg INFO CONFIG:   server.protocol_version: HTTP/1.1
+2011-07-05 05:00:45,398 cherrypy.msg INFO CONFIG:   server.socket_host: 127.0.0.1
+2011-07-05 05:00:45,398 cherrypy.msg INFO CONFIG:   server.socket_port: 3000
+2011-07-05 05:00:45,398 cherrypy.msg INFO CONFIG:   server.socket_file: 
+2011-07-05 05:00:45,399 cherrypy.msg INFO CONFIG:   server.reverse_dns: False
+2011-07-05 05:00:45,399 cherrypy.msg INFO CONFIG:   server.socket_queue_size: 25
+2011-07-05 05:00:45,399 cherrypy.msg INFO CONFIG:   server.thread_pool: 50
+2011-07-05 05:00:45,414 turbogears.visit INFO Visit Tracking starting
+2011-07-05 05:00:45,416 turbogears.visit.sovisit INFO Succesfully loaded "nmv.model.Visit"
+2011-07-05 05:00:45,417 turbogears.visit INFO Visit filter initialised
+2011-07-05 05:00:45,418 turbogears.identity INFO Identity starting
+2011-07-05 05:00:45,418 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-07-05 05:00:45,418 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-07-05 05:00:45,418 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-07-05 05:00:45,419 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-07-05 05:00:45,419 turbogears.identity INFO Identity visit plugin initialised
+2011-07-05 05:00:45,420 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-07-05 05:00:45,420 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-07-05 05:00:45,420 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-07-05 05:00:45,420 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-07-05 05:00:45,421 nmv INFO PID = 11465
+2011-07-05 05:00:45,423 nmv.filters.states INFO <LicenseStateChecker per 60 seconds> state checker registered
+2011-07-05 05:00:45,423 nmv.filters.states INFO <UnregisteredPluginsStateChecker per 60 seconds> state checker registered
+2011-07-05 05:00:45,424 nmv.filters.states INFO <UnconfirmedEulasStateChecker per 60 seconds> state checker registered
+2011-07-05 05:00:45,424 nmv.theme.base INFO Looking for NMV themes under "/var/lib/nza/themes/nmv"
+2011-07-05 05:00:45,425 nmv.theme.base INFO Theme "nexenta" loaded
+2011-07-05 05:00:45,425 nmv.theme.base INFO Current theme is "Nexenta". Default theme is "Nexenta".
+2011-07-05 05:00:45,431 nmv.plugins INFO Imported plugin "nmv-autosmart"
+2011-07-05 05:00:45,466 nmv.plugins INFO Initialized plugin "nmv-autosmart"
+2011-07-05 05:00:45,468 nmv.plugins INFO Imported plugin "nmv-comstar"
+2011-07-05 05:00:45,757 nmv.plugins INFO Initialized plugin "nmv-comstar"
+2011-07-05 05:00:45,759 nmv.plugins INFO Imported plugin "nmv-autosync"
+2011-07-05 05:00:45,781 nmv.plugins INFO Initialized plugin "nmv-autosync"
+2011-07-05 05:00:45,782 nmv.jobs INFO Job "ListAppliancesCheckJob" registered with 600 seconds interval
+2011-07-05 05:00:45,783 nmv.jobs INFO Job "CheckScrubbingProgress" registered with 1800 seconds interval
+2011-07-05 05:00:45,783 nmv.jobs INFO Job "CheckSystemNotices" registered with 60 seconds interval
+2011-07-05 05:00:45,783 nmv.jobs INFO Job "CheckAvailableUpgrades" registered with 0 seconds interval
+2011-07-05 05:00:45,783 nmv.state INFO State changed from stop to running
+2011-07-05 05:00:45,783 turbogears.startup INFO Scheduler started
+2011-07-05 05:00:45,984 cherrypy.msg INFO HTTP: Serving HTTP on http://127.0.0.1:3000/
+[ Jul  6 05:00:42 Stopping because service restarting. ]
+[ Jul  6 05:00:42 Executing stop method ("/usr/bin/nmv.py stop"). ]
+2011-07-06 05:00:42,873 cherrypy.msg INFO HTTP: HTTP Server shut down
+2011-07-06 05:00:42,873 turbogears.visit INFO Visit Tracking shutting down
+2011-07-06 05:00:42,921 turbogears.identity INFO Identity shutting down
+2011-07-06 05:00:42,922 nmv.controllers INFO Killing multiplex
+2011-07-06 05:00:43,319 turbogears.startup INFO Scheduler stopped
+2011-07-06 05:00:43,319 cherrypy.msg INFO ENGINE: CherryPy shut down
+[ Jul  6 05:00:43 Method "stop" exited with status 0. ]
+[ Jul  6 05:00:43 Executing start method ("/usr/bin/nmv.py"). ]
+NMV daemonized...
+[ Jul  6 05:00:43 Method "start" exited with status 0. ]
+2011-07-06 05:00:46,246 cherrypy.msg INFO CONFIG: Server parameters:
+2011-07-06 05:00:46,246 cherrypy.msg INFO CONFIG:   server.environment: production
+2011-07-06 05:00:46,246 cherrypy.msg INFO CONFIG:   server.log_to_screen: True
+2011-07-06 05:00:46,246 cherrypy.msg INFO CONFIG:   server.log_file: 
+2011-07-06 05:00:46,247 cherrypy.msg INFO CONFIG:   server.log_tracebacks: True
+2011-07-06 05:00:46,247 cherrypy.msg INFO CONFIG:   server.log_request_headers: False
+2011-07-06 05:00:46,247 cherrypy.msg INFO CONFIG:   server.protocol_version: HTTP/1.1
+2011-07-06 05:00:46,247 cherrypy.msg INFO CONFIG:   server.socket_host: 127.0.0.1
+2011-07-06 05:00:46,248 cherrypy.msg INFO CONFIG:   server.socket_port: 3000
+2011-07-06 05:00:46,248 cherrypy.msg INFO CONFIG:   server.socket_file: 
+2011-07-06 05:00:46,248 cherrypy.msg INFO CONFIG:   server.reverse_dns: False
+2011-07-06 05:00:46,248 cherrypy.msg INFO CONFIG:   server.socket_queue_size: 25
+2011-07-06 05:00:46,248 cherrypy.msg INFO CONFIG:   server.thread_pool: 50
+2011-07-06 05:00:46,263 turbogears.visit INFO Visit Tracking starting
+2011-07-06 05:00:46,265 turbogears.visit.sovisit INFO Succesfully loaded "nmv.model.Visit"
+2011-07-06 05:00:46,266 turbogears.visit INFO Visit filter initialised
+2011-07-06 05:00:46,267 turbogears.identity INFO Identity starting
+2011-07-06 05:00:46,267 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-07-06 05:00:46,267 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-07-06 05:00:46,268 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-07-06 05:00:46,268 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-07-06 05:00:46,269 turbogears.identity INFO Identity visit plugin initialised
+2011-07-06 05:00:46,269 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-07-06 05:00:46,269 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-07-06 05:00:46,270 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-07-06 05:00:46,270 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-07-06 05:00:46,270 nmv INFO PID = 18122
+2011-07-06 05:00:46,274 nmv.filters.states INFO <LicenseStateChecker per 60 seconds> state checker registered
+2011-07-06 05:00:46,275 nmv.filters.states INFO <UnregisteredPluginsStateChecker per 60 seconds> state checker registered
+2011-07-06 05:00:46,275 nmv.filters.states INFO <UnconfirmedEulasStateChecker per 60 seconds> state checker registered
+2011-07-06 05:00:46,275 nmv.theme.base INFO Looking for NMV themes under "/var/lib/nza/themes/nmv"
+2011-07-06 05:00:46,277 nmv.theme.base INFO Theme "nexenta" loaded
+2011-07-06 05:00:46,277 nmv.theme.base INFO Current theme is "Nexenta". Default theme is "Nexenta".
+2011-07-06 05:00:46,283 nmv.plugins INFO Imported plugin "nmv-autosmart"
+2011-07-06 05:00:46,319 nmv.plugins INFO Initialized plugin "nmv-autosmart"
+2011-07-06 05:00:46,323 nmv.plugins INFO Imported plugin "nmv-comstar"
+2011-07-06 05:00:46,728 nmv.plugins INFO Initialized plugin "nmv-comstar"
+2011-07-06 05:00:46,730 nmv.plugins INFO Imported plugin "nmv-autosync"
+2011-07-06 05:00:46,753 nmv.plugins INFO Initialized plugin "nmv-autosync"
+2011-07-06 05:00:46,754 nmv.jobs INFO Job "ListAppliancesCheckJob" registered with 600 seconds interval
+2011-07-06 05:00:46,754 nmv.jobs INFO Job "CheckScrubbingProgress" registered with 1800 seconds interval
+2011-07-06 05:00:46,754 nmv.jobs INFO Job "CheckSystemNotices" registered with 60 seconds interval
+2011-07-06 05:00:46,754 nmv.jobs INFO Job "CheckAvailableUpgrades" registered with 0 seconds interval
+2011-07-06 05:00:46,754 nmv.state INFO State changed from stop to running
+2011-07-06 05:00:46,755 turbogears.startup INFO Scheduler started
+2011-07-06 05:00:46,856 cherrypy.msg INFO HTTP: Serving HTTP on http://127.0.0.1:3000/
+[ Jul  7 05:00:42 Stopping because service restarting. ]
+[ Jul  7 05:00:42 Executing stop method ("/usr/bin/nmv.py stop"). ]
+2011-07-07 05:00:42,219 cherrypy.msg INFO HTTP: HTTP Server shut down
+2011-07-07 05:00:42,219 turbogears.visit INFO Visit Tracking shutting down
+2011-07-07 05:00:42,219 turbogears.identity INFO Identity shutting down
+2011-07-07 05:00:42,220 nmv.controllers INFO Killing multiplex
+2011-07-07 05:00:43,104 turbogears.startup INFO Scheduler stopped
+2011-07-07 05:00:43,104 cherrypy.msg INFO ENGINE: CherryPy shut down
+[ Jul  7 05:00:43 Method "stop" exited with status 0. ]
+[ Jul  7 05:00:43 Executing start method ("/usr/bin/nmv.py"). ]
+NMV daemonized...
+[ Jul  7 05:00:43 Method "start" exited with status 0. ]
+2011-07-07 05:00:45,625 cherrypy.msg INFO CONFIG: Server parameters:
+2011-07-07 05:00:45,626 cherrypy.msg INFO CONFIG:   server.environment: production
+2011-07-07 05:00:45,626 cherrypy.msg INFO CONFIG:   server.log_to_screen: True
+2011-07-07 05:00:45,626 cherrypy.msg INFO CONFIG:   server.log_file: 
+2011-07-07 05:00:45,627 cherrypy.msg INFO CONFIG:   server.log_tracebacks: True
+2011-07-07 05:00:45,627 cherrypy.msg INFO CONFIG:   server.log_request_headers: False
+2011-07-07 05:00:45,627 cherrypy.msg INFO CONFIG:   server.protocol_version: HTTP/1.1
+2011-07-07 05:00:45,627 cherrypy.msg INFO CONFIG:   server.socket_host: 127.0.0.1
+2011-07-07 05:00:45,627 cherrypy.msg INFO CONFIG:   server.socket_port: 3000
+2011-07-07 05:00:45,628 cherrypy.msg INFO CONFIG:   server.socket_file: 
+2011-07-07 05:00:45,628 cherrypy.msg INFO CONFIG:   server.reverse_dns: False
+2011-07-07 05:00:45,628 cherrypy.msg INFO CONFIG:   server.socket_queue_size: 25
+2011-07-07 05:00:45,628 cherrypy.msg INFO CONFIG:   server.thread_pool: 50
+2011-07-07 05:00:45,643 turbogears.visit INFO Visit Tracking starting
+2011-07-07 05:00:45,645 turbogears.visit.sovisit INFO Succesfully loaded "nmv.model.Visit"
+2011-07-07 05:00:45,646 turbogears.visit INFO Visit filter initialised
+2011-07-07 05:00:45,647 turbogears.identity INFO Identity starting
+2011-07-07 05:00:45,647 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-07-07 05:00:45,647 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-07-07 05:00:45,647 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-07-07 05:00:45,648 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-07-07 05:00:45,649 turbogears.identity INFO Identity visit plugin initialised
+2011-07-07 05:00:45,649 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-07-07 05:00:45,649 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-07-07 05:00:45,649 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-07-07 05:00:45,649 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-07-07 05:00:45,650 nmv INFO PID = 25962
+2011-07-07 05:00:45,652 nmv.filters.states INFO <LicenseStateChecker per 60 seconds> state checker registered
+2011-07-07 05:00:45,652 nmv.filters.states INFO <UnregisteredPluginsStateChecker per 60 seconds> state checker registered
+2011-07-07 05:00:45,653 nmv.filters.states INFO <UnconfirmedEulasStateChecker per 60 seconds> state checker registered
+2011-07-07 05:00:45,653 nmv.theme.base INFO Looking for NMV themes under "/var/lib/nza/themes/nmv"
+2011-07-07 05:00:45,654 nmv.theme.base INFO Theme "nexenta" loaded
+2011-07-07 05:00:45,654 nmv.theme.base INFO Current theme is "Nexenta". Default theme is "Nexenta".
+2011-07-07 05:00:45,660 nmv.plugins INFO Imported plugin "nmv-autosmart"
+2011-07-07 05:00:45,697 nmv.plugins INFO Initialized plugin "nmv-autosmart"
+2011-07-07 05:00:45,700 nmv.plugins INFO Imported plugin "nmv-comstar"
+2011-07-07 05:00:46,040 nmv.plugins INFO Initialized plugin "nmv-comstar"
+2011-07-07 05:00:46,043 nmv.plugins INFO Imported plugin "nmv-autosync"
+2011-07-07 05:00:46,065 nmv.plugins INFO Initialized plugin "nmv-autosync"
+2011-07-07 05:00:46,066 nmv.jobs INFO Job "ListAppliancesCheckJob" registered with 600 seconds interval
+2011-07-07 05:00:46,066 nmv.jobs INFO Job "CheckScrubbingProgress" registered with 1800 seconds interval
+2011-07-07 05:00:46,066 nmv.jobs INFO Job "CheckSystemNotices" registered with 60 seconds interval
+2011-07-07 05:00:46,066 nmv.jobs INFO Job "CheckAvailableUpgrades" registered with 0 seconds interval
+2011-07-07 05:00:46,067 nmv.state INFO State changed from stop to running
+2011-07-07 05:00:46,067 turbogears.startup INFO Scheduler started
+2011-07-07 05:00:46,168 cherrypy.msg INFO HTTP: Serving HTTP on http://127.0.0.1:3000/
+[ Jul  8 05:00:42 Stopping because service restarting. ]
+[ Jul  8 05:00:42 Executing stop method ("/usr/bin/nmv.py stop"). ]
+2011-07-08 05:00:42,086 cherrypy.msg INFO HTTP: HTTP Server shut down
+2011-07-08 05:00:42,086 turbogears.visit INFO Visit Tracking shutting down
+2011-07-08 05:00:42,136 turbogears.identity INFO Identity shutting down
+2011-07-08 05:00:42,136 nmv.controllers INFO Killing multiplex
+2011-07-08 05:00:42,263 turbogears.startup INFO Scheduler stopped
+2011-07-08 05:00:42,263 cherrypy.msg INFO ENGINE: CherryPy shut down
+[ Jul  8 05:00:43 Method "stop" exited with status 0. ]
+[ Jul  8 05:00:43 Executing start method ("/usr/bin/nmv.py"). ]
+NMV daemonized...
+[ Jul  8 05:00:43 Method "start" exited with status 0. ]
+2011-07-08 05:00:45,519 cherrypy.msg INFO CONFIG: Server parameters:
+2011-07-08 05:00:45,519 cherrypy.msg INFO CONFIG:   server.environment: production
+2011-07-08 05:00:45,520 cherrypy.msg INFO CONFIG:   server.log_to_screen: True
+2011-07-08 05:00:45,520 cherrypy.msg INFO CONFIG:   server.log_file: 
+2011-07-08 05:00:45,520 cherrypy.msg INFO CONFIG:   server.log_tracebacks: True
+2011-07-08 05:00:45,520 cherrypy.msg INFO CONFIG:   server.log_request_headers: False
+2011-07-08 05:00:45,520 cherrypy.msg INFO CONFIG:   server.protocol_version: HTTP/1.1
+2011-07-08 05:00:45,520 cherrypy.msg INFO CONFIG:   server.socket_host: 127.0.0.1
+2011-07-08 05:00:45,521 cherrypy.msg INFO CONFIG:   server.socket_port: 3000
+2011-07-08 05:00:45,521 cherrypy.msg INFO CONFIG:   server.socket_file: 
+2011-07-08 05:00:45,521 cherrypy.msg INFO CONFIG:   server.reverse_dns: False
+2011-07-08 05:00:45,521 cherrypy.msg INFO CONFIG:   server.socket_queue_size: 25
+2011-07-08 05:00:45,521 cherrypy.msg INFO CONFIG:   server.thread_pool: 50
+2011-07-08 05:00:45,531 turbogears.visit INFO Visit Tracking starting
+2011-07-08 05:00:45,532 turbogears.visit.sovisit INFO Succesfully loaded "nmv.model.Visit"
+2011-07-08 05:00:45,533 turbogears.visit INFO Visit filter initialised
+2011-07-08 05:00:45,533 turbogears.identity INFO Identity starting
+2011-07-08 05:00:45,533 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-07-08 05:00:45,534 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-07-08 05:00:45,534 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-07-08 05:00:45,534 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-07-08 05:00:45,534 turbogears.identity INFO Identity visit plugin initialised
+2011-07-08 05:00:45,535 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-07-08 05:00:45,535 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-07-08 05:00:45,535 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-07-08 05:00:45,535 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-07-08 05:00:45,535 nmv INFO PID = 3634
+2011-07-08 05:00:45,537 nmv.filters.states INFO <LicenseStateChecker per 60 seconds> state checker registered
+2011-07-08 05:00:45,537 nmv.filters.states INFO <UnregisteredPluginsStateChecker per 60 seconds> state checker registered
+2011-07-08 05:00:45,537 nmv.filters.states INFO <UnconfirmedEulasStateChecker per 60 seconds> state checker registered
+2011-07-08 05:00:45,537 nmv.theme.base INFO Looking for NMV themes under "/var/lib/nza/themes/nmv"
+2011-07-08 05:00:45,538 nmv.theme.base INFO Theme "nexenta" loaded
+2011-07-08 05:00:45,538 nmv.theme.base INFO Current theme is "Nexenta". Default theme is "Nexenta".
+2011-07-08 05:00:45,542 nmv.plugins INFO Imported plugin "nmv-autosmart"
+2011-07-08 05:00:45,566 nmv.plugins INFO Initialized plugin "nmv-autosmart"
+2011-07-08 05:00:45,568 nmv.plugins INFO Imported plugin "nmv-comstar"
+2011-07-08 05:00:45,859 nmv.plugins INFO Initialized plugin "nmv-comstar"
+2011-07-08 05:00:45,861 nmv.plugins INFO Imported plugin "nmv-autosync"
+2011-07-08 05:00:45,883 nmv.plugins INFO Initialized plugin "nmv-autosync"
+2011-07-08 05:00:45,884 nmv.jobs INFO Job "ListAppliancesCheckJob" registered with 600 seconds interval
+2011-07-08 05:00:45,884 nmv.jobs INFO Job "CheckScrubbingProgress" registered with 1800 seconds interval
+2011-07-08 05:00:45,884 nmv.jobs INFO Job "CheckSystemNotices" registered with 60 seconds interval
+2011-07-08 05:00:45,884 nmv.jobs INFO Job "CheckAvailableUpgrades" registered with 0 seconds interval
+2011-07-08 05:00:45,884 nmv.state INFO State changed from stop to running
+2011-07-08 05:00:45,885 turbogears.startup INFO Scheduler started
+2011-07-08 05:00:45,986 cherrypy.msg INFO HTTP: Serving HTTP on http://127.0.0.1:3000/
+[ Jul  8 13:45:14 Enabled. ]
+[ Jul  8 13:45:50 Executing start method ("/usr/bin/nmv.py"). ]
+NMV daemonized...
+[ Jul  8 13:45:51 Method "start" exited with status 0. ]
+2011-07-08 13:45:54,530 cherrypy.msg INFO CONFIG: Server parameters:
+2011-07-08 13:45:54,530 cherrypy.msg INFO CONFIG:   server.environment: production
+2011-07-08 13:45:54,531 cherrypy.msg INFO CONFIG:   server.log_to_screen: True
+2011-07-08 13:45:54,531 cherrypy.msg INFO CONFIG:   server.log_file: 
+2011-07-08 13:45:54,531 cherrypy.msg INFO CONFIG:   server.log_tracebacks: True
+2011-07-08 13:45:54,531 cherrypy.msg INFO CONFIG:   server.log_request_headers: False
+2011-07-08 13:45:54,531 cherrypy.msg INFO CONFIG:   server.protocol_version: HTTP/1.1
+2011-07-08 13:45:54,531 cherrypy.msg INFO CONFIG:   server.socket_host: 127.0.0.1
+2011-07-08 13:45:54,532 cherrypy.msg INFO CONFIG:   server.socket_port: 3000
+2011-07-08 13:45:54,532 cherrypy.msg INFO CONFIG:   server.socket_file: 
+2011-07-08 13:45:54,532 cherrypy.msg INFO CONFIG:   server.reverse_dns: False
+2011-07-08 13:45:54,532 cherrypy.msg INFO CONFIG:   server.socket_queue_size: 25
+2011-07-08 13:45:54,532 cherrypy.msg INFO CONFIG:   server.thread_pool: 50
+2011-07-08 13:45:54,554 turbogears.visit INFO Visit Tracking starting
+2011-07-08 13:45:54,556 turbogears.visit.sovisit INFO Succesfully loaded "nmv.model.Visit"
+2011-07-08 13:45:54,557 turbogears.visit INFO Visit filter initialised
+2011-07-08 13:45:54,557 turbogears.identity INFO Identity starting
+2011-07-08 13:45:54,558 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-07-08 13:45:54,558 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-07-08 13:45:54,558 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-07-08 13:45:54,558 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-07-08 13:45:54,559 turbogears.identity INFO Identity visit plugin initialised
+2011-07-08 13:45:54,559 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-07-08 13:45:54,559 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-07-08 13:45:54,559 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-07-08 13:45:54,559 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-07-08 13:45:54,559 nmv INFO PID = 846
+2011-07-08 13:45:54,564 nmv.filters.states INFO <LicenseStateChecker per 60 seconds> state checker registered
+2011-07-08 13:45:54,564 nmv.filters.states INFO <UnregisteredPluginsStateChecker per 60 seconds> state checker registered
+2011-07-08 13:45:54,564 nmv.filters.states INFO <UnconfirmedEulasStateChecker per 60 seconds> state checker registered
+2011-07-08 13:45:54,565 nmv.theme.base INFO Looking for NMV themes under "/var/lib/nza/themes/nmv"
+2011-07-08 13:45:54,567 nmv.theme.base INFO Theme "nexenta" loaded
+2011-07-08 13:45:54,568 nmv.theme.base INFO Current theme is "Nexenta". Default theme is "Nexenta".
+2011-07-08 13:45:54,572 nmv.plugins INFO Imported plugin "nmv-autosmart"
+2011-07-08 13:45:54,603 nmv.plugins INFO Initialized plugin "nmv-autosmart"
+2011-07-08 13:45:54,605 nmv.plugins INFO Imported plugin "nmv-comstar"
+2011-07-08 13:45:54,905 nmv.plugins INFO Initialized plugin "nmv-comstar"
+2011-07-08 13:45:54,909 nmv.plugins INFO Imported plugin "nmv-autosync"
+2011-07-08 13:45:54,933 nmv.plugins INFO Initialized plugin "nmv-autosync"
+2011-07-08 13:45:54,936 nmv.jobs INFO Job "ListAppliancesCheckJob" registered with 600 seconds interval
+2011-07-08 13:45:54,936 nmv.jobs INFO Job "CheckScrubbingProgress" registered with 1800 seconds interval
+2011-07-08 13:45:54,936 nmv.jobs INFO Job "CheckSystemNotices" registered with 60 seconds interval
+2011-07-08 13:45:54,936 nmv.jobs INFO Job "CheckAvailableUpgrades" registered with 0 seconds interval
+2011-07-08 13:45:54,936 nmv.state INFO State changed from stop to running
+2011-07-08 13:45:54,937 turbogears.startup INFO Scheduler started
+2011-07-08 13:45:55,144 cherrypy.msg INFO HTTP: Serving HTTP on http://127.0.0.1:3000/
+[ Jul  9 05:00:43 Stopping because service restarting. ]
+[ Jul  9 05:00:43 Executing stop method ("/usr/bin/nmv.py stop"). ]
+2011-07-09 05:00:43,257 cherrypy.msg INFO HTTP: HTTP Server shut down
+2011-07-09 05:00:43,257 turbogears.visit INFO Visit Tracking shutting down
+2011-07-09 05:00:43,282 turbogears.identity INFO Identity shutting down
+2011-07-09 05:00:43,283 nmv.controllers INFO Killing multiplex
+2011-07-09 05:00:44,065 turbogears.startup INFO Scheduler stopped
+2011-07-09 05:00:44,066 cherrypy.msg INFO ENGINE: CherryPy shut down
+[ Jul  9 05:00:44 Method "stop" exited with status 0. ]
+[ Jul  9 05:00:44 Executing start method ("/usr/bin/nmv.py"). ]
+NMV daemonized...
+[ Jul  9 05:00:44 Method "start" exited with status 0. ]
+2011-07-09 05:00:46,803 cherrypy.msg INFO CONFIG: Server parameters:
+2011-07-09 05:00:46,803 cherrypy.msg INFO CONFIG:   server.environment: production
+2011-07-09 05:00:46,803 cherrypy.msg INFO CONFIG:   server.log_to_screen: True
+2011-07-09 05:00:46,803 cherrypy.msg INFO CONFIG:   server.log_file: 
+2011-07-09 05:00:46,804 cherrypy.msg INFO CONFIG:   server.log_tracebacks: True
+2011-07-09 05:00:46,804 cherrypy.msg INFO CONFIG:   server.log_request_headers: False
+2011-07-09 05:00:46,804 cherrypy.msg INFO CONFIG:   server.protocol_version: HTTP/1.1
+2011-07-09 05:00:46,804 cherrypy.msg INFO CONFIG:   server.socket_host: 127.0.0.1
+2011-07-09 05:00:46,804 cherrypy.msg INFO CONFIG:   server.socket_port: 3000
+2011-07-09 05:00:46,804 cherrypy.msg INFO CONFIG:   server.socket_file: 
+2011-07-09 05:00:46,805 cherrypy.msg INFO CONFIG:   server.reverse_dns: False
+2011-07-09 05:00:46,805 cherrypy.msg INFO CONFIG:   server.socket_queue_size: 25
+2011-07-09 05:00:46,805 cherrypy.msg INFO CONFIG:   server.thread_pool: 50
+2011-07-09 05:00:46,814 turbogears.visit INFO Visit Tracking starting
+2011-07-09 05:00:46,816 turbogears.visit.sovisit INFO Succesfully loaded "nmv.model.Visit"
+2011-07-09 05:00:46,816 turbogears.visit INFO Visit filter initialised
+2011-07-09 05:00:46,817 turbogears.identity INFO Identity starting
+2011-07-09 05:00:46,817 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-07-09 05:00:46,817 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-07-09 05:00:46,817 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-07-09 05:00:46,817 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-07-09 05:00:46,818 turbogears.identity INFO Identity visit plugin initialised
+2011-07-09 05:00:46,818 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-07-09 05:00:46,818 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-07-09 05:00:46,819 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-07-09 05:00:46,819 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-07-09 05:00:46,819 nmv INFO PID = 25024
+2011-07-09 05:00:46,821 nmv.filters.states INFO <LicenseStateChecker per 60 seconds> state checker registered
+2011-07-09 05:00:46,821 nmv.filters.states INFO <UnregisteredPluginsStateChecker per 60 seconds> state checker registered
+2011-07-09 05:00:46,821 nmv.filters.states INFO <UnconfirmedEulasStateChecker per 60 seconds> state checker registered
+2011-07-09 05:00:46,821 nmv.theme.base INFO Looking for NMV themes under "/var/lib/nza/themes/nmv"
+2011-07-09 05:00:46,822 nmv.theme.base INFO Theme "nexenta" loaded
+2011-07-09 05:00:46,822 nmv.theme.base INFO Current theme is "Nexenta". Default theme is "Nexenta".
+2011-07-09 05:00:46,833 nmv.plugins INFO Imported plugin "nmv-autosmart"
+2011-07-09 05:00:46,862 nmv.plugins INFO Initialized plugin "nmv-autosmart"
+2011-07-09 05:00:46,870 nmv.plugins INFO Imported plugin "nmv-comstar"
+2011-07-09 05:00:47,169 nmv.plugins INFO Initialized plugin "nmv-comstar"
+2011-07-09 05:00:47,409 nmv.plugins INFO Imported plugin "nmv-autosync"
+2011-07-09 05:00:47,432 nmv.plugins INFO Initialized plugin "nmv-autosync"
+2011-07-09 05:00:47,433 nmv.jobs INFO Job "ListAppliancesCheckJob" registered with 600 seconds interval
+2011-07-09 05:00:47,433 nmv.jobs INFO Job "CheckScrubbingProgress" registered with 1800 seconds interval
+2011-07-09 05:00:47,433 nmv.jobs INFO Job "CheckSystemNotices" registered with 60 seconds interval
+2011-07-09 05:00:47,433 nmv.jobs INFO Job "CheckAvailableUpgrades" registered with 0 seconds interval
+2011-07-09 05:00:47,434 nmv.state INFO State changed from stop to running
+2011-07-09 05:00:47,434 turbogears.startup INFO Scheduler started
+2011-07-09 05:00:47,635 cherrypy.msg INFO HTTP: Serving HTTP on http://127.0.0.1:3000/
+[ Jul 10 05:00:09 Stopping because service restarting. ]
+[ Jul 10 05:00:09 Executing stop method ("/usr/bin/nmv.py stop"). ]
+2011-07-10 05:00:09,732 cherrypy.msg INFO HTTP: HTTP Server shut down
+2011-07-10 05:00:09,732 turbogears.visit INFO Visit Tracking shutting down
+2011-07-10 05:00:09,748 turbogears.identity INFO Identity shutting down
+2011-07-10 05:00:09,748 nmv.controllers INFO Killing multiplex
+2011-07-10 05:00:09,785 turbogears.startup INFO Scheduler stopped
+2011-07-10 05:00:09,785 cherrypy.msg INFO ENGINE: CherryPy shut down
+[ Jul 10 05:00:10 Method "stop" exited with status 0. ]
+[ Jul 10 05:00:10 Executing start method ("/usr/bin/nmv.py"). ]
+NMV daemonized...
+[ Jul 10 05:00:10 Method "start" exited with status 0. ]
+2011-07-10 05:00:13,163 cherrypy.msg INFO CONFIG: Server parameters:
+2011-07-10 05:00:13,163 cherrypy.msg INFO CONFIG:   server.environment: production
+2011-07-10 05:00:13,163 cherrypy.msg INFO CONFIG:   server.log_to_screen: True
+2011-07-10 05:00:13,163 cherrypy.msg INFO CONFIG:   server.log_file: 
+2011-07-10 05:00:13,164 cherrypy.msg INFO CONFIG:   server.log_tracebacks: True
+2011-07-10 05:00:13,164 cherrypy.msg INFO CONFIG:   server.log_request_headers: False
+2011-07-10 05:00:13,164 cherrypy.msg INFO CONFIG:   server.protocol_version: HTTP/1.1
+2011-07-10 05:00:13,164 cherrypy.msg INFO CONFIG:   server.socket_host: 127.0.0.1
+2011-07-10 05:00:13,164 cherrypy.msg INFO CONFIG:   server.socket_port: 3000
+2011-07-10 05:00:13,164 cherrypy.msg INFO CONFIG:   server.socket_file: 
+2011-07-10 05:00:13,164 cherrypy.msg INFO CONFIG:   server.reverse_dns: False
+2011-07-10 05:00:13,165 cherrypy.msg INFO CONFIG:   server.socket_queue_size: 25
+2011-07-10 05:00:13,165 cherrypy.msg INFO CONFIG:   server.thread_pool: 50
+2011-07-10 05:00:13,179 turbogears.visit INFO Visit Tracking starting
+2011-07-10 05:00:13,181 turbogears.visit.sovisit INFO Succesfully loaded "nmv.model.Visit"
+2011-07-10 05:00:13,182 turbogears.visit INFO Visit filter initialised
+2011-07-10 05:00:13,182 turbogears.identity INFO Identity starting
+2011-07-10 05:00:13,182 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-07-10 05:00:13,182 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-07-10 05:00:13,182 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-07-10 05:00:13,183 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-07-10 05:00:13,183 turbogears.identity INFO Identity visit plugin initialised
+2011-07-10 05:00:13,183 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-07-10 05:00:13,184 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-07-10 05:00:13,184 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-07-10 05:00:13,184 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-07-10 05:00:13,184 nmv INFO PID = 1725
+2011-07-10 05:00:13,186 nmv.filters.states INFO <LicenseStateChecker per 60 seconds> state checker registered
+2011-07-10 05:00:13,186 nmv.filters.states INFO <UnregisteredPluginsStateChecker per 60 seconds> state checker registered
+2011-07-10 05:00:13,186 nmv.filters.states INFO <UnconfirmedEulasStateChecker per 60 seconds> state checker registered
+2011-07-10 05:00:13,187 nmv.theme.base INFO Looking for NMV themes under "/var/lib/nza/themes/nmv"
+2011-07-10 05:00:13,189 nmv.theme.base INFO Theme "nexenta" loaded
+2011-07-10 05:00:13,189 nmv.theme.base INFO Current theme is "Nexenta". Default theme is "Nexenta".
+2011-07-10 05:00:13,196 nmv.plugins INFO Imported plugin "nmv-autosmart"
+2011-07-10 05:00:13,221 nmv.plugins INFO Initialized plugin "nmv-autosmart"
+2011-07-10 05:00:13,224 nmv.plugins INFO Imported plugin "nmv-comstar"
+2011-07-10 05:00:13,509 nmv.plugins INFO Initialized plugin "nmv-comstar"
+2011-07-10 05:00:13,511 nmv.plugins INFO Imported plugin "nmv-autosync"
+2011-07-10 05:00:13,533 nmv.plugins INFO Initialized plugin "nmv-autosync"
+2011-07-10 05:00:13,535 nmv.jobs INFO Job "ListAppliancesCheckJob" registered with 600 seconds interval
+2011-07-10 05:00:13,535 nmv.jobs INFO Job "CheckScrubbingProgress" registered with 1800 seconds interval
+2011-07-10 05:00:13,535 nmv.jobs INFO Job "CheckSystemNotices" registered with 60 seconds interval
+2011-07-10 05:00:13,535 nmv.jobs INFO Job "CheckAvailableUpgrades" registered with 0 seconds interval
+2011-07-10 05:00:13,535 nmv.state INFO State changed from stop to running
+2011-07-10 05:00:13,536 turbogears.startup INFO Scheduler started
+2011-07-10 05:00:13,737 cherrypy.msg INFO HTTP: Serving HTTP on http://127.0.0.1:3000/
+[ Jul 11 05:00:47 Stopping because service restarting. ]
+[ Jul 11 05:00:47 Executing stop method ("/usr/bin/nmv.py stop"). ]
+2011-07-11 05:00:47,311 cherrypy.msg INFO HTTP: HTTP Server shut down
+2011-07-11 05:00:47,311 turbogears.visit INFO Visit Tracking shutting down
+2011-07-11 05:00:47,322 turbogears.identity INFO Identity shutting down
+2011-07-11 05:00:47,322 nmv.controllers INFO Killing multiplex
+2011-07-11 05:00:47,847 turbogears.startup INFO Scheduler stopped
+2011-07-11 05:00:47,847 cherrypy.msg INFO ENGINE: CherryPy shut down
+[ Jul 11 05:00:48 Method "stop" exited with status 0. ]
+[ Jul 11 05:00:48 Executing start method ("/usr/bin/nmv.py"). ]
+NMV daemonized...
+[ Jul 11 05:00:48 Method "start" exited with status 0. ]
+2011-07-11 05:00:50,891 cherrypy.msg INFO CONFIG: Server parameters:
+2011-07-11 05:00:50,891 cherrypy.msg INFO CONFIG:   server.environment: production
+2011-07-11 05:00:50,892 cherrypy.msg INFO CONFIG:   server.log_to_screen: True
+2011-07-11 05:00:50,892 cherrypy.msg INFO CONFIG:   server.log_file: 
+2011-07-11 05:00:50,892 cherrypy.msg INFO CONFIG:   server.log_tracebacks: True
+2011-07-11 05:00:50,892 cherrypy.msg INFO CONFIG:   server.log_request_headers: False
+2011-07-11 05:00:50,892 cherrypy.msg INFO CONFIG:   server.protocol_version: HTTP/1.1
+2011-07-11 05:00:50,893 cherrypy.msg INFO CONFIG:   server.socket_host: 127.0.0.1
+2011-07-11 05:00:50,893 cherrypy.msg INFO CONFIG:   server.socket_port: 3000
+2011-07-11 05:00:50,893 cherrypy.msg INFO CONFIG:   server.socket_file: 
+2011-07-11 05:00:50,893 cherrypy.msg INFO CONFIG:   server.reverse_dns: False
+2011-07-11 05:00:50,894 cherrypy.msg INFO CONFIG:   server.socket_queue_size: 25
+2011-07-11 05:00:50,894 cherrypy.msg INFO CONFIG:   server.thread_pool: 50
+2011-07-11 05:00:50,906 turbogears.visit INFO Visit Tracking starting
+2011-07-11 05:00:50,907 turbogears.visit.sovisit INFO Succesfully loaded "nmv.model.Visit"
+2011-07-11 05:00:50,908 turbogears.visit INFO Visit filter initialised
+2011-07-11 05:00:50,908 turbogears.identity INFO Identity starting
+2011-07-11 05:00:50,909 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-07-11 05:00:50,909 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-07-11 05:00:50,909 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-07-11 05:00:50,909 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-07-11 05:00:50,910 turbogears.identity INFO Identity visit plugin initialised
+2011-07-11 05:00:50,910 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-07-11 05:00:50,910 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-07-11 05:00:50,910 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-07-11 05:00:50,910 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-07-11 05:00:50,910 nmv INFO PID = 5194
+2011-07-11 05:00:50,912 nmv.filters.states INFO <LicenseStateChecker per 60 seconds> state checker registered
+2011-07-11 05:00:50,912 nmv.filters.states INFO <UnregisteredPluginsStateChecker per 60 seconds> state checker registered
+2011-07-11 05:00:50,912 nmv.filters.states INFO <UnconfirmedEulasStateChecker per 60 seconds> state checker registered
+2011-07-11 05:00:50,912 nmv.theme.base INFO Looking for NMV themes under "/var/lib/nza/themes/nmv"
+2011-07-11 05:00:50,913 nmv.theme.base INFO Theme "nexenta" loaded
+2011-07-11 05:00:50,913 nmv.theme.base INFO Current theme is "Nexenta". Default theme is "Nexenta".
+2011-07-11 05:00:50,918 nmv.plugins INFO Imported plugin "nmv-autosmart"
+2011-07-11 05:00:50,942 nmv.plugins INFO Initialized plugin "nmv-autosmart"
+2011-07-11 05:00:50,944 nmv.plugins INFO Imported plugin "nmv-comstar"
+2011-07-11 05:00:51,227 nmv.plugins INFO Initialized plugin "nmv-comstar"
+2011-07-11 05:00:51,229 nmv.plugins INFO Imported plugin "nmv-autosync"
+2011-07-11 05:00:51,251 nmv.plugins INFO Initialized plugin "nmv-autosync"
+2011-07-11 05:00:51,252 nmv.jobs INFO Job "ListAppliancesCheckJob" registered with 600 seconds interval
+2011-07-11 05:00:51,252 nmv.jobs INFO Job "CheckScrubbingProgress" registered with 1800 seconds interval
+2011-07-11 05:00:51,253 nmv.jobs INFO Job "CheckSystemNotices" registered with 60 seconds interval
+2011-07-11 05:00:51,253 nmv.jobs INFO Job "CheckAvailableUpgrades" registered with 0 seconds interval
+2011-07-11 05:00:51,253 nmv.state INFO State changed from stop to running
+2011-07-11 05:00:51,253 turbogears.startup INFO Scheduler started
+2011-07-11 05:00:51,455 cherrypy.msg INFO HTTP: Serving HTTP on http://127.0.0.1:3000/
+2011-07-11 17:09:37,221 turbogears.identity.soprovider INFO Associating user (admin) with visit (729c9afbf9567d65f5040f3b9e9ce5b693f70fa0)
+2011-07-11 17:10:24,464 nmv.subcontrollers.jobviewer ERROR Unable to get jobs list
+Traceback (most recent call last):
+  File "/usr/lib/python2.5/site-packages/nmv/subcontrollers/jobviewer.py", line 29, in jobs
+  File "/usr/lib/python2.5/site-packages/NZA/__init__.py", line 1022, in __call__
+  File "/usr/lib/python2.5/site-packages/NZA/__init__.py", line 1141, in call
+  File "/usr/lib/python2.5/site-packages/NZA/__init__.py", line 1164, in call
+  File "<string>", line 3, in call
+  File "/usr/bin/nmv.py", line 265, in call
+    return call(self, *args, **kwargs)
+  File "/usr/lib/python2.5/site-packages/NZA/__init__.py", line 951, in call
+  File "/usr/lib/python2.5/site-packages/NZA/__init__.py", line 1134, in connect
+  File "/usr/lib/python2.5/site-packages/NZA/__init__.py", line 1088, in connect
+  File "/usr/lib/python2.5/site-packages/NZA/__init__.py", line 908, in connect
+NZAConnectionFailed: com.nexenta.nms bus is not connected to dbus daemon
+[ Jul 11 17:10:26 Stopping because dependency activity requires stop. ]
+[ Jul 11 17:10:26 Executing stop method ("/usr/bin/nmv.py stop"). ]
+2011-07-11 17:10:26,184 cherrypy.msg INFO HTTP: HTTP Server shut down
+2011-07-11 17:10:26,184 turbogears.visit INFO Visit Tracking shutting down
+2011-07-11 17:10:26,209 turbogears.identity INFO Identity shutting down
+2011-07-11 17:10:26,210 nmv.controllers INFO Killing multiplex
+2011-07-11 17:10:26,482 turbogears.startup INFO Scheduler stopped
+2011-07-11 17:10:26,483 cherrypy.msg INFO ENGINE: CherryPy shut down
+[ Jul 11 17:10:27 Method "stop" exited with status 0. ]
+[ Jul 11 17:10:33 Executing start method ("/usr/bin/nmv.py"). ]
+NMV daemonized...
+[ Jul 11 17:10:33 Method "start" exited with status 0. ]
+2011-07-11 17:10:36,852 cherrypy.msg INFO CONFIG: Server parameters:
+2011-07-11 17:10:36,852 cherrypy.msg INFO CONFIG:   server.environment: production
+2011-07-11 17:10:36,852 cherrypy.msg INFO CONFIG:   server.log_to_screen: True
+2011-07-11 17:10:36,853 cherrypy.msg INFO CONFIG:   server.log_file: 
+2011-07-11 17:10:36,853 cherrypy.msg INFO CONFIG:   server.log_tracebacks: True
+2011-07-11 17:10:36,853 cherrypy.msg INFO CONFIG:   server.log_request_headers: False
+2011-07-11 17:10:36,853 cherrypy.msg INFO CONFIG:   server.protocol_version: HTTP/1.1
+2011-07-11 17:10:36,853 cherrypy.msg INFO CONFIG:   server.socket_host: 127.0.0.1
+2011-07-11 17:10:36,853 cherrypy.msg INFO CONFIG:   server.socket_port: 3000
+2011-07-11 17:10:36,854 cherrypy.msg INFO CONFIG:   server.socket_file: 
+2011-07-11 17:10:36,854 cherrypy.msg INFO CONFIG:   server.reverse_dns: False
+2011-07-11 17:10:36,854 cherrypy.msg INFO CONFIG:   server.socket_queue_size: 25
+2011-07-11 17:10:36,854 cherrypy.msg INFO CONFIG:   server.thread_pool: 50
+2011-07-11 17:10:36,865 turbogears.visit INFO Visit Tracking starting
+2011-07-11 17:10:36,867 turbogears.visit.sovisit INFO Succesfully loaded "nmv.model.Visit"
+2011-07-11 17:10:36,867 turbogears.visit INFO Visit filter initialised
+2011-07-11 17:10:36,868 turbogears.identity INFO Identity starting
+2011-07-11 17:10:36,868 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-07-11 17:10:36,868 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-07-11 17:10:36,868 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-07-11 17:10:36,868 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-07-11 17:10:36,869 turbogears.identity INFO Identity visit plugin initialised
+2011-07-11 17:10:36,869 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-07-11 17:10:36,869 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-07-11 17:10:36,870 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-07-11 17:10:36,870 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-07-11 17:10:36,870 nmv INFO PID = 23693
+2011-07-11 17:10:36,872 nmv.filters.states INFO <LicenseStateChecker per 60 seconds> state checker registered
+2011-07-11 17:10:36,872 nmv.filters.states INFO <UnregisteredPluginsStateChecker per 60 seconds> state checker registered
+2011-07-11 17:10:36,872 nmv.filters.states INFO <UnconfirmedEulasStateChecker per 60 seconds> state checker registered
+2011-07-11 17:10:36,872 nmv.theme.base INFO Looking for NMV themes under "/var/lib/nza/themes/nmv"
+2011-07-11 17:10:36,873 nmv.theme.base INFO Theme "nexenta" loaded
+2011-07-11 17:10:36,873 nmv.theme.base INFO Current theme is "Nexenta". Default theme is "Nexenta".
+2011-07-11 17:10:36,877 nmv.plugins INFO Imported plugin "nmv-autosmart"
+2011-07-11 17:10:36,901 nmv.plugins INFO Initialized plugin "nmv-autosmart"
+2011-07-11 17:10:36,904 nmv.plugins INFO Imported plugin "nmv-comstar"
+2011-07-11 17:10:37,197 nmv.plugins INFO Initialized plugin "nmv-comstar"
+2011-07-11 17:10:37,199 nmv.plugins INFO Imported plugin "nmv-autosync"
+2011-07-11 17:10:37,221 nmv.plugins INFO Initialized plugin "nmv-autosync"
+2011-07-11 17:10:37,223 nmv.jobs INFO Job "ListAppliancesCheckJob" registered with 600 seconds interval
+2011-07-11 17:10:37,223 nmv.jobs INFO Job "CheckScrubbingProgress" registered with 1800 seconds interval
+2011-07-11 17:10:37,223 nmv.jobs INFO Job "CheckSystemNotices" registered with 60 seconds interval
+2011-07-11 17:10:37,223 nmv.jobs INFO Job "CheckAvailableUpgrades" registered with 0 seconds interval
+2011-07-11 17:10:37,223 nmv.state INFO State changed from stop to running
+2011-07-11 17:10:37,224 turbogears.startup INFO Scheduler started
+2011-07-11 17:10:37,435 cherrypy.msg INFO HTTP: Serving HTTP on http://127.0.0.1:3000/
+[ Jul 12 05:00:47 Stopping because service restarting. ]
+[ Jul 12 05:00:47 Executing stop method ("/usr/bin/nmv.py stop"). ]
+2011-07-12 05:00:47,167 cherrypy.msg INFO HTTP: HTTP Server shut down
+2011-07-12 05:00:47,167 turbogears.visit INFO Visit Tracking shutting down
+2011-07-12 05:00:47,203 turbogears.identity INFO Identity shutting down
+2011-07-12 05:00:47,203 nmv.controllers INFO Killing multiplex
+2011-07-12 05:00:47,245 turbogears.startup INFO Scheduler stopped
+2011-07-12 05:00:47,246 cherrypy.msg INFO ENGINE: CherryPy shut down
+[ Jul 12 05:00:48 Method "stop" exited with status 0. ]
+[ Jul 12 05:00:48 Executing start method ("/usr/bin/nmv.py"). ]
+NMV daemonized...
+[ Jul 12 05:00:48 Method "start" exited with status 0. ]
+2011-07-12 05:00:51,001 cherrypy.msg INFO CONFIG: Server parameters:
+2011-07-12 05:00:51,001 cherrypy.msg INFO CONFIG:   server.environment: production
+2011-07-12 05:00:51,001 cherrypy.msg INFO CONFIG:   server.log_to_screen: True
+2011-07-12 05:00:51,001 cherrypy.msg INFO CONFIG:   server.log_file: 
+2011-07-12 05:00:51,002 cherrypy.msg INFO CONFIG:   server.log_tracebacks: True
+2011-07-12 05:00:51,002 cherrypy.msg INFO CONFIG:   server.log_request_headers: False
+2011-07-12 05:00:51,002 cherrypy.msg INFO CONFIG:   server.protocol_version: HTTP/1.1
+2011-07-12 05:00:51,002 cherrypy.msg INFO CONFIG:   server.socket_host: 127.0.0.1
+2011-07-12 05:00:51,002 cherrypy.msg INFO CONFIG:   server.socket_port: 3000
+2011-07-12 05:00:51,002 cherrypy.msg INFO CONFIG:   server.socket_file: 
+2011-07-12 05:00:51,002 cherrypy.msg INFO CONFIG:   server.reverse_dns: False
+2011-07-12 05:00:51,003 cherrypy.msg INFO CONFIG:   server.socket_queue_size: 25
+2011-07-12 05:00:51,003 cherrypy.msg INFO CONFIG:   server.thread_pool: 50
+2011-07-12 05:00:51,020 turbogears.visit INFO Visit Tracking starting
+2011-07-12 05:00:51,022 turbogears.visit.sovisit INFO Succesfully loaded "nmv.model.Visit"
+2011-07-12 05:00:51,023 turbogears.visit INFO Visit filter initialised
+2011-07-12 05:00:51,023 turbogears.identity INFO Identity starting
+2011-07-12 05:00:51,024 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-07-12 05:00:51,024 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-07-12 05:00:51,024 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-07-12 05:00:51,024 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-07-12 05:00:51,025 turbogears.identity INFO Identity visit plugin initialised
+2011-07-12 05:00:51,025 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-07-12 05:00:51,025 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-07-12 05:00:51,025 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-07-12 05:00:51,025 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-07-12 05:00:51,025 nmv INFO PID = 18925
+2011-07-12 05:00:51,029 nmv.filters.states INFO <LicenseStateChecker per 60 seconds> state checker registered
+2011-07-12 05:00:51,029 nmv.filters.states INFO <UnregisteredPluginsStateChecker per 60 seconds> state checker registered
+2011-07-12 05:00:51,029 nmv.filters.states INFO <UnconfirmedEulasStateChecker per 60 seconds> state checker registered
+2011-07-12 05:00:51,030 nmv.theme.base INFO Looking for NMV themes under "/var/lib/nza/themes/nmv"
+2011-07-12 05:00:51,031 nmv.theme.base INFO Theme "nexenta" loaded
+2011-07-12 05:00:51,031 nmv.theme.base INFO Current theme is "Nexenta". Default theme is "Nexenta".
+2011-07-12 05:00:51,037 nmv.plugins INFO Imported plugin "nmv-autosmart"
+2011-07-12 05:00:51,063 nmv.plugins INFO Initialized plugin "nmv-autosmart"
+2011-07-12 05:00:51,066 nmv.plugins INFO Imported plugin "nmv-comstar"
+2011-07-12 05:00:51,375 nmv.plugins INFO Initialized plugin "nmv-comstar"
+2011-07-12 05:00:51,378 nmv.plugins INFO Imported plugin "nmv-autosync"
+2011-07-12 05:00:51,401 nmv.plugins INFO Initialized plugin "nmv-autosync"
+2011-07-12 05:00:51,404 nmv.jobs INFO Job "ListAppliancesCheckJob" registered with 600 seconds interval
+2011-07-12 05:00:51,404 nmv.jobs INFO Job "CheckScrubbingProgress" registered with 1800 seconds interval
+2011-07-12 05:00:51,404 nmv.jobs INFO Job "CheckSystemNotices" registered with 60 seconds interval
+2011-07-12 05:00:51,404 nmv.jobs INFO Job "CheckAvailableUpgrades" registered with 0 seconds interval
+2011-07-12 05:00:51,405 nmv.state INFO State changed from stop to running
+2011-07-12 05:00:51,405 turbogears.startup INFO Scheduler started
+2011-07-12 05:00:51,606 cherrypy.msg INFO HTTP: Serving HTTP on http://127.0.0.1:3000/
+[ Jul 13 05:00:47 Stopping because service restarting. ]
+[ Jul 13 05:00:47 Executing stop method ("/usr/bin/nmv.py stop"). ]
+2011-07-13 05:00:47,310 cherrypy.msg INFO HTTP: HTTP Server shut down
+2011-07-13 05:00:47,310 turbogears.visit INFO Visit Tracking shutting down
+2011-07-13 05:00:47,330 turbogears.identity INFO Identity shutting down
+2011-07-13 05:00:47,330 nmv.controllers INFO Killing multiplex
+2011-07-13 05:00:48,111 turbogears.startup INFO Scheduler stopped
+2011-07-13 05:00:48,111 cherrypy.msg INFO ENGINE: CherryPy shut down
+[ Jul 13 05:00:48 Method "stop" exited with status 0. ]
+[ Jul 13 05:00:48 Executing start method ("/usr/bin/nmv.py"). ]
+NMV daemonized...
+[ Jul 13 05:00:48 Method "start" exited with status 0. ]
+2011-07-13 05:00:50,892 cherrypy.msg INFO CONFIG: Server parameters:
+2011-07-13 05:00:50,893 cherrypy.msg INFO CONFIG:   server.environment: production
+2011-07-13 05:00:50,893 cherrypy.msg INFO CONFIG:   server.log_to_screen: True
+2011-07-13 05:00:50,893 cherrypy.msg INFO CONFIG:   server.log_file: 
+2011-07-13 05:00:50,893 cherrypy.msg INFO CONFIG:   server.log_tracebacks: True
+2011-07-13 05:00:50,893 cherrypy.msg INFO CONFIG:   server.log_request_headers: False
+2011-07-13 05:00:50,893 cherrypy.msg INFO CONFIG:   server.protocol_version: HTTP/1.1
+2011-07-13 05:00:50,894 cherrypy.msg INFO CONFIG:   server.socket_host: 127.0.0.1
+2011-07-13 05:00:50,894 cherrypy.msg INFO CONFIG:   server.socket_port: 3000
+2011-07-13 05:00:50,894 cherrypy.msg INFO CONFIG:   server.socket_file: 
+2011-07-13 05:00:50,894 cherrypy.msg INFO CONFIG:   server.reverse_dns: False
+2011-07-13 05:00:50,894 cherrypy.msg INFO CONFIG:   server.socket_queue_size: 25
+2011-07-13 05:00:50,894 cherrypy.msg INFO CONFIG:   server.thread_pool: 50
+2011-07-13 05:00:50,911 turbogears.visit INFO Visit Tracking starting
+2011-07-13 05:00:50,913 turbogears.visit.sovisit INFO Succesfully loaded "nmv.model.Visit"
+2011-07-13 05:00:50,914 turbogears.visit INFO Visit filter initialised
+2011-07-13 05:00:50,915 turbogears.identity INFO Identity starting
+2011-07-13 05:00:50,915 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-07-13 05:00:50,915 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-07-13 05:00:50,915 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-07-13 05:00:50,915 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-07-13 05:00:50,916 turbogears.identity INFO Identity visit plugin initialised
+2011-07-13 05:00:50,916 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-07-13 05:00:50,916 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-07-13 05:00:50,916 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-07-13 05:00:50,916 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-07-13 05:00:50,917 nmv INFO PID = 20797
+2011-07-13 05:00:50,920 nmv.filters.states INFO <LicenseStateChecker per 60 seconds> state checker registered
+2011-07-13 05:00:50,920 nmv.filters.states INFO <UnregisteredPluginsStateChecker per 60 seconds> state checker registered
+2011-07-13 05:00:50,921 nmv.filters.states INFO <UnconfirmedEulasStateChecker per 60 seconds> state checker registered
+2011-07-13 05:00:50,921 nmv.theme.base INFO Looking for NMV themes under "/var/lib/nza/themes/nmv"
+2011-07-13 05:00:50,922 nmv.theme.base INFO Theme "nexenta" loaded
+2011-07-13 05:00:50,922 nmv.theme.base INFO Current theme is "Nexenta". Default theme is "Nexenta".
+2011-07-13 05:00:50,928 nmv.plugins INFO Imported plugin "nmv-autosmart"
+2011-07-13 05:00:50,954 nmv.plugins INFO Initialized plugin "nmv-autosmart"
+2011-07-13 05:00:50,956 nmv.plugins INFO Imported plugin "nmv-comstar"
+2011-07-13 05:00:51,263 nmv.plugins INFO Initialized plugin "nmv-comstar"
+2011-07-13 05:00:51,265 nmv.plugins INFO Imported plugin "nmv-autosync"
+2011-07-13 05:00:51,289 nmv.plugins INFO Initialized plugin "nmv-autosync"
+2011-07-13 05:00:51,292 nmv.jobs INFO Job "ListAppliancesCheckJob" registered with 600 seconds interval
+2011-07-13 05:00:51,292 nmv.jobs INFO Job "CheckScrubbingProgress" registered with 1800 seconds interval
+2011-07-13 05:00:51,292 nmv.jobs INFO Job "CheckSystemNotices" registered with 60 seconds interval
+2011-07-13 05:00:51,292 nmv.jobs INFO Job "CheckAvailableUpgrades" registered with 0 seconds interval
+2011-07-13 05:00:51,292 nmv.state INFO State changed from stop to running
+2011-07-13 05:00:51,292 turbogears.startup INFO Scheduler started
+2011-07-13 05:00:51,494 cherrypy.msg INFO HTTP: Serving HTTP on http://127.0.0.1:3000/
+[ Jul 13 14:23:40 Stopping because dependency activity requires stop. ]
+[ Jul 13 14:23:40 Executing stop method ("/usr/bin/nmv.py stop"). ]
+2011-07-13 14:23:40,430 cherrypy.msg INFO HTTP: HTTP Server shut down
+2011-07-13 14:23:40,430 turbogears.visit INFO Visit Tracking shutting down
+2011-07-13 14:23:40,443 turbogears.identity INFO Identity shutting down
+2011-07-13 14:23:40,443 nmv.controllers INFO Killing multiplex
+2011-07-13 14:23:40,920 turbogears.startup INFO Scheduler stopped
+2011-07-13 14:23:40,920 cherrypy.msg INFO ENGINE: CherryPy shut down
+[ Jul 13 14:23:41 Method "stop" exited with status 0. ]
+[ Jul 13 14:23:41 Disabled. ]
+[ Jul 13 14:36:19 Enabled. ]
+[ Jul 13 14:36:26 Executing start method ("/usr/bin/nmv.py"). ]
+NMV daemonized...
+[ Jul 13 14:36:26 Method "start" exited with status 0. ]
+2011-07-13 14:36:29,304 cherrypy.msg INFO CONFIG: Server parameters:
+2011-07-13 14:36:29,304 cherrypy.msg INFO CONFIG:   server.environment: production
+2011-07-13 14:36:29,304 cherrypy.msg INFO CONFIG:   server.log_to_screen: True
+2011-07-13 14:36:29,304 cherrypy.msg INFO CONFIG:   server.log_file: 
+2011-07-13 14:36:29,305 cherrypy.msg INFO CONFIG:   server.log_tracebacks: True
+2011-07-13 14:36:29,305 cherrypy.msg INFO CONFIG:   server.log_request_headers: False
+2011-07-13 14:36:29,305 cherrypy.msg INFO CONFIG:   server.protocol_version: HTTP/1.1
+2011-07-13 14:36:29,305 cherrypy.msg INFO CONFIG:   server.socket_host: 127.0.0.1
+2011-07-13 14:36:29,305 cherrypy.msg INFO CONFIG:   server.socket_port: 3000
+2011-07-13 14:36:29,305 cherrypy.msg INFO CONFIG:   server.socket_file: 
+2011-07-13 14:36:29,305 cherrypy.msg INFO CONFIG:   server.reverse_dns: False
+2011-07-13 14:36:29,306 cherrypy.msg INFO CONFIG:   server.socket_queue_size: 25
+2011-07-13 14:36:29,306 cherrypy.msg INFO CONFIG:   server.thread_pool: 50
+2011-07-13 14:36:29,315 turbogears.visit INFO Visit Tracking starting
+2011-07-13 14:36:29,317 turbogears.visit.sovisit INFO Succesfully loaded "nmv.model.Visit"
+2011-07-13 14:36:29,318 turbogears.visit INFO Visit filter initialised
+2011-07-13 14:36:29,318 turbogears.identity INFO Identity starting
+2011-07-13 14:36:29,318 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-07-13 14:36:29,318 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-07-13 14:36:29,318 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-07-13 14:36:29,318 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-07-13 14:36:29,319 turbogears.identity INFO Identity visit plugin initialised
+2011-07-13 14:36:29,319 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-07-13 14:36:29,319 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-07-13 14:36:29,320 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-07-13 14:36:29,320 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-07-13 14:36:29,320 nmv INFO PID = 6873
+2011-07-13 14:36:29,322 nmv.filters.states INFO <LicenseStateChecker per 60 seconds> state checker registered
+2011-07-13 14:36:29,322 nmv.filters.states INFO <UnregisteredPluginsStateChecker per 60 seconds> state checker registered
+2011-07-13 14:36:29,322 nmv.filters.states INFO <UnconfirmedEulasStateChecker per 60 seconds> state checker registered
+2011-07-13 14:36:29,322 nmv.theme.base INFO Looking for NMV themes under "/var/lib/nza/themes/nmv"
+2011-07-13 14:36:29,323 nmv.theme.base INFO Theme "nexenta" loaded
+2011-07-13 14:36:29,323 nmv.theme.base INFO Current theme is "Nexenta". Default theme is "Nexenta".
+2011-07-13 14:36:29,326 nmv.plugins INFO Imported plugin "nmv-autosmart"
+2011-07-13 14:36:29,350 nmv.plugins INFO Initialized plugin "nmv-autosmart"
+2011-07-13 14:36:29,352 nmv.plugins INFO Imported plugin "nmv-comstar"
+2011-07-13 14:36:29,636 nmv.plugins INFO Initialized plugin "nmv-comstar"
+2011-07-13 14:36:29,639 nmv.plugins INFO Imported plugin "nmv-autosync"
+2011-07-13 14:36:29,661 nmv.plugins INFO Initialized plugin "nmv-autosync"
+2011-07-13 14:36:29,662 nmv.jobs INFO Job "ListAppliancesCheckJob" registered with 600 seconds interval
+2011-07-13 14:36:29,662 nmv.jobs INFO Job "CheckScrubbingProgress" registered with 1800 seconds interval
+2011-07-13 14:36:29,662 nmv.jobs INFO Job "CheckSystemNotices" registered with 60 seconds interval
+2011-07-13 14:36:29,662 nmv.jobs INFO Job "CheckAvailableUpgrades" registered with 0 seconds interval
+2011-07-13 14:36:29,662 nmv.state INFO State changed from stop to running
+2011-07-13 14:36:29,663 turbogears.startup INFO Scheduler started
+2011-07-13 14:36:29,864 cherrypy.msg INFO HTTP: Serving HTTP on http://127.0.0.1:3000/
+[ Jul 14 05:00:47 Stopping because service restarting. ]
+[ Jul 14 05:00:47 Executing stop method ("/usr/bin/nmv.py stop"). ]
+2011-07-14 05:00:47,415 cherrypy.msg INFO HTTP: HTTP Server shut down
+2011-07-14 05:00:47,415 turbogears.visit INFO Visit Tracking shutting down
+2011-07-14 05:00:47,436 turbogears.identity INFO Identity shutting down
+2011-07-14 05:00:47,436 nmv.controllers INFO Killing multiplex
+2011-07-14 05:00:47,895 turbogears.startup INFO Scheduler stopped
+2011-07-14 05:00:47,895 cherrypy.msg INFO ENGINE: CherryPy shut down
+[ Jul 14 05:00:48 Method "stop" exited with status 0. ]
+[ Jul 14 05:00:48 Executing start method ("/usr/bin/nmv.py"). ]
+NMV daemonized...
+[ Jul 14 05:00:48 Method "start" exited with status 0. ]
+2011-07-14 05:00:51,146 cherrypy.msg INFO CONFIG: Server parameters:
+2011-07-14 05:00:51,146 cherrypy.msg INFO CONFIG:   server.environment: production
+2011-07-14 05:00:51,147 cherrypy.msg INFO CONFIG:   server.log_to_screen: True
+2011-07-14 05:00:51,147 cherrypy.msg INFO CONFIG:   server.log_file: 
+2011-07-14 05:00:51,147 cherrypy.msg INFO CONFIG:   server.log_tracebacks: True
+2011-07-14 05:00:51,147 cherrypy.msg INFO CONFIG:   server.log_request_headers: False
+2011-07-14 05:00:51,147 cherrypy.msg INFO CONFIG:   server.protocol_version: HTTP/1.1
+2011-07-14 05:00:51,147 cherrypy.msg INFO CONFIG:   server.socket_host: 127.0.0.1
+2011-07-14 05:00:51,147 cherrypy.msg INFO CONFIG:   server.socket_port: 3000
+2011-07-14 05:00:51,148 cherrypy.msg INFO CONFIG:   server.socket_file: 
+2011-07-14 05:00:51,148 cherrypy.msg INFO CONFIG:   server.reverse_dns: False
+2011-07-14 05:00:51,148 cherrypy.msg INFO CONFIG:   server.socket_queue_size: 25
+2011-07-14 05:00:51,148 cherrypy.msg INFO CONFIG:   server.thread_pool: 50
+2011-07-14 05:00:51,165 turbogears.visit INFO Visit Tracking starting
+2011-07-14 05:00:51,167 turbogears.visit.sovisit INFO Succesfully loaded "nmv.model.Visit"
+2011-07-14 05:00:51,168 turbogears.visit INFO Visit filter initialised
+2011-07-14 05:00:51,168 turbogears.identity INFO Identity starting
+2011-07-14 05:00:51,168 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-07-14 05:00:51,169 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-07-14 05:00:51,169 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-07-14 05:00:51,169 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-07-14 05:00:51,169 turbogears.identity INFO Identity visit plugin initialised
+2011-07-14 05:00:51,170 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.User"
+2011-07-14 05:00:51,170 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Group"
+2011-07-14 05:00:51,170 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.Permission"
+2011-07-14 05:00:51,170 turbogears.identity.soprovider INFO Succesfully loaded "nmv.model.VisitIdentity"
+2011-07-14 05:00:51,170 nmv INFO PID = 18585
+2011-07-14 05:00:51,174 nmv.filters.states INFO <LicenseStateChecker per 60 seconds> state checker registered
+2011-07-14 05:00:51,174 nmv.filters.states INFO <UnregisteredPluginsStateChecker per 60 seconds> state checker registered
+2011-07-14 05:00:51,174 nmv.filters.states INFO <UnconfirmedEulasStateChecker per 60 seconds> state checker registered
+2011-07-14 05:00:51,174 nmv.theme.base INFO Looking for NMV themes under "/var/lib/nza/themes/nmv"
+2011-07-14 05:00:51,175 nmv.theme.base INFO Theme "nexenta" loaded
+2011-07-14 05:00:51,175 nmv.theme.base INFO Current theme is "Nexenta". Default theme is "Nexenta".
+2011-07-14 05:00:51,181 nmv.plugins INFO Imported plugin "nmv-autosmart"
+2011-07-14 05:00:51,206 nmv.plugins INFO Initialized plugin "nmv-autosmart"
+2011-07-14 05:00:51,209 nmv.plugins INFO Imported plugin "nmv-comstar"
+2011-07-14 05:00:51,499 nmv.plugins INFO Initialized plugin "nmv-comstar"
+2011-07-14 05:00:51,501 nmv.plugins INFO Imported plugin "nmv-autosync"
+2011-07-14 05:00:51,525 nmv.plugins INFO Initialized plugin "nmv-autosync"
+2011-07-14 05:00:51,528 nmv.jobs INFO Job "ListAppliancesCheckJob" registered with 600 seconds interval
+2011-07-14 05:00:51,528 nmv.jobs INFO Job "CheckScrubbingProgress" registered with 1800 seconds interval
+2011-07-14 05:00:51,529 nmv.jobs INFO Job "CheckSystemNotices" registered with 60 seconds interval
+2011-07-14 05:00:51,529 nmv.jobs INFO Job "CheckAvailableUpgrades" registered with 0 seconds interval
+2011-07-14 05:00:51,529 nmv.state INFO State changed from stop to running
+2011-07-14 05:00:51,529 turbogears.startup INFO Scheduler started
+2011-07-14 05:00:51,731 cherrypy.msg INFO HTTP: Serving HTTP on http://127.0.0.1:3000/
