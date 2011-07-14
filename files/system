@@ -99,3 +99,5 @@
 
 set nfs:nfs_allow_preepoch_time = 1
 #set zfs:zfs_vdev_max_pending = 10
+
+set zfs:zfs_debug = 1
