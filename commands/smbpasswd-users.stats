@@ -1,0 +1,6 @@
+Command line run: awk -F: '{print $1}' /var/smb/smbpasswd
+Command return code: 0
+Command completion status: completed
+Started at: Thu Jul 14 14:41:41 2011
+Ended at: Thu Jul 14 14:41:41 2011
+Elapsed (s): 0.00795078277588

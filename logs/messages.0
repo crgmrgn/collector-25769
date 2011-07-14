@@ -1,0 +1,1016 @@
+Jun 30 04:01:36 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jun 30 04:01:36 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jun 30 04:01:36 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jun 30 04:01:36 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jun 30 04:01:36 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jun 30 04:01:36 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jun 30 05:01:34 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jun 30 05:01:34 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jun 30 05:01:34 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jun 30 05:01:34 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jun 30 05:01:34 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jun 30 05:01:34 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jun 30 06:01:35 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jun 30 06:01:35 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jun 30 06:01:35 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jun 30 06:01:35 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jun 30 06:01:35 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jun 30 06:01:35 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jun 30 07:01:34 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jun 30 07:01:34 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jun 30 07:01:34 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jun 30 07:01:34 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jun 30 07:01:34 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jun 30 07:01:34 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jun 30 08:01:42 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jun 30 08:01:42 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jun 30 08:01:42 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jun 30 08:01:42 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jun 30 08:01:42 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jun 30 08:01:42 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jun 30 09:01:33 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jun 30 09:01:33 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jun 30 09:01:33 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jun 30 09:01:33 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jun 30 09:01:33 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jun 30 09:01:33 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jun 30 10:01:35 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jun 30 10:01:35 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jun 30 10:01:35 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jun 30 10:01:35 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jun 30 10:01:35 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jun 30 10:01:35 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jun 30 11:01:35 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jun 30 11:01:35 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jun 30 11:01:35 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jun 30 11:01:35 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jun 30 11:01:35 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jun 30 11:01:35 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jun 30 12:01:39 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jun 30 12:01:39 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jun 30 12:01:39 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jun 30 12:01:39 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jun 30 12:01:39 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jun 30 12:01:39 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jun 30 13:01:33 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jun 30 13:01:33 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jun 30 13:01:33 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jun 30 13:01:33 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jun 30 13:01:33 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jun 30 13:01:33 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jun 30 14:01:40 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jun 30 14:01:40 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jun 30 14:01:40 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jun 30 14:01:40 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jun 30 14:01:40 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jun 30 14:01:40 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jun 30 15:01:40 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jun 30 15:01:40 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jun 30 15:01:40 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jun 30 15:01:40 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jun 30 15:01:40 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jun 30 15:01:40 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jun 30 16:01:39 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jun 30 16:01:39 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jun 30 16:01:39 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jun 30 16:01:39 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jun 30 16:01:39 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jun 30 16:01:39 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jun 30 17:01:41 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jun 30 17:01:41 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jun 30 17:01:41 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jun 30 17:01:41 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jun 30 17:01:41 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jun 30 17:01:41 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jun 30 18:01:19 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jun 30 18:01:19 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jun 30 18:01:19 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jun 30 18:01:19 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jun 30 18:01:19 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jun 30 18:01:19 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jun 30 19:01:19 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jun 30 19:01:19 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jun 30 19:01:19 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jun 30 19:01:19 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jun 30 19:01:19 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jun 30 19:01:19 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jun 30 20:01:20 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jun 30 20:01:20 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jun 30 20:01:20 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jun 30 20:01:20 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jun 30 20:01:20 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jun 30 20:01:20 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jun 30 21:01:19 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jun 30 21:01:19 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jun 30 21:01:19 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jun 30 21:01:19 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jun 30 21:01:19 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jun 30 21:01:19 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jun 30 22:01:20 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jun 30 22:01:20 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jun 30 22:01:20 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jun 30 22:01:20 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jun 30 22:01:20 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jun 30 22:01:20 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jun 30 23:01:19 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jun 30 23:01:19 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jun 30 23:01:19 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jun 30 23:01:19 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jun 30 23:01:19 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jun 30 23:01:19 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  1 00:01:20 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  1 00:01:20 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  1 00:01:20 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  1 00:01:20 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  1 00:01:20 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  1 00:01:20 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  1 01:01:19 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  1 01:01:19 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  1 01:01:19 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  1 01:01:19 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  1 01:01:19 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  1 01:01:19 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  1 02:01:19 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  1 02:01:19 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  1 02:01:19 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  1 02:01:19 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  1 02:01:19 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  1 02:01:19 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  1 03:04:47 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  1 03:04:47 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  1 03:04:47 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  1 03:04:47 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  1 03:04:47 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  1 03:04:47 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  1 04:01:19 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  1 04:01:19 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  1 04:01:19 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  1 04:01:19 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  1 04:01:19 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  1 04:01:19 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  1 05:01:19 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  1 05:01:19 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  1 05:01:19 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  1 05:01:19 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  1 05:01:19 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  1 05:01:19 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  1 06:01:19 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  1 06:01:19 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  1 06:01:19 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  1 06:01:19 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  1 06:01:19 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  1 06:01:19 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  1 07:01:19 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  1 07:01:19 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  1 07:01:19 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  1 07:01:19 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  1 07:01:19 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  1 07:01:19 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  1 08:01:19 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  1 08:01:19 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  1 08:01:19 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  1 08:01:19 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  1 08:01:19 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  1 08:01:19 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  1 09:01:19 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  1 09:01:19 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  1 09:01:19 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  1 09:01:19 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  1 09:01:19 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  1 09:01:19 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  1 10:01:19 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  1 10:01:19 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  1 10:01:19 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  1 10:01:19 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  1 10:01:19 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  1 10:01:19 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  1 11:01:20 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  1 11:01:20 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  1 11:01:20 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  1 11:01:20 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  1 11:01:20 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  1 11:01:20 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  1 12:01:19 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  1 12:01:19 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  1 12:01:19 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  1 12:01:19 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  1 12:01:19 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  1 12:01:19 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  1 13:01:20 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  1 13:01:20 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  1 13:01:20 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  1 13:01:20 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  1 13:01:20 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  1 13:01:20 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  1 14:01:19 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  1 14:01:19 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  1 14:01:19 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  1 14:01:19 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  1 14:01:19 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  1 14:01:19 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  1 15:01:19 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  1 15:01:19 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  1 15:01:19 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  1 15:01:19 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  1 15:01:19 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  1 15:01:19 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  1 16:01:20 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  1 16:01:20 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  1 16:01:20 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  1 16:01:20 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  1 16:01:20 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  1 16:01:20 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  1 16:21:04 myhost xntpd[672]: [ID 261039 daemon.error] time error 3592.735877 is way too large (set clock manually)
+Jul  1 16:21:04 myhost svc.startd[9]: [ID 748625 daemon.error] network/ntp:default transitioned to maintenance by request (see 'svcs -xv' for details)
+Jul  1 16:21:04 myhost xntpd[672]: [ID 866926 daemon.notice] xntpd exiting on signal 15
+Jul  1 17:29:59 myhost ntpdate[17311]: [ID 774510 daemon.notice] step time server 64.69.38.107 offset 3592.696288 sec
+Jul  1 17:29:59 myhost xntpd[17346]: [ID 702911 daemon.notice] xntpd 3-5.93e+sun 03/08/29 16:23:05 (1.4)
+Jul  1 17:29:59 myhost xntpd[17346]: [ID 301315 daemon.notice] tickadj = 5, tick = 10000, tvu_maxslew = 495, est. hz = 100
+Jul  1 17:30:00 myhost xntpd[17346]: [ID 266339 daemon.notice] using kernel phase-lock loop 0041, drift correction 0.00000
+Jul  1 17:30:00 myhost last message repeated 1 time
+Jul  1 17:31:31 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  1 17:31:31 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  1 17:31:31 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  1 17:31:31 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  1 17:31:31 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  1 17:31:31 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  1 18:01:09 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  1 18:01:09 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  1 18:01:09 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  1 18:01:09 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  1 18:01:09 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  1 18:01:09 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  1 19:01:19 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  1 19:01:19 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  1 19:01:19 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  1 19:01:19 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  1 19:01:19 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  1 19:01:19 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  1 20:01:19 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  1 20:01:19 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  1 20:01:19 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  1 20:01:19 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  1 20:01:19 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  1 20:01:19 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  1 21:01:20 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  1 21:01:20 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  1 21:01:20 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  1 21:01:20 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  1 21:01:20 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  1 21:01:20 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  1 22:01:20 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  1 22:01:20 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  1 22:01:20 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  1 22:01:20 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  1 22:01:20 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  1 22:01:20 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  1 23:01:19 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  1 23:01:19 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  1 23:01:19 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  1 23:01:19 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  1 23:01:19 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  1 23:01:19 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  2 00:01:19 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  2 00:01:19 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  2 00:01:19 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  2 00:01:19 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  2 00:01:19 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  2 00:01:19 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  2 01:01:20 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  2 01:01:20 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  2 01:01:20 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  2 01:01:20 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  2 01:01:20 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  2 01:01:20 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  2 02:01:20 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  2 02:01:20 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  2 02:01:20 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  2 02:01:20 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  2 02:01:20 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  2 02:01:20 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  2 03:01:20 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  2 03:01:20 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  2 03:01:20 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  2 03:01:20 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  2 03:01:20 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  2 03:01:20 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  2 04:01:21 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  2 04:01:21 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  2 04:01:21 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  2 04:01:21 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  2 04:01:21 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  2 04:01:21 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  2 05:01:20 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  2 05:01:20 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  2 05:01:20 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  2 05:01:20 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  2 05:01:20 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  2 05:01:20 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  2 06:01:20 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  2 06:01:20 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  2 06:01:20 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  2 06:01:20 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  2 06:01:20 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  2 06:01:20 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  2 07:01:20 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  2 07:01:20 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  2 07:01:20 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  2 07:01:20 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  2 07:01:20 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  2 07:01:20 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  2 08:01:19 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  2 08:01:19 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  2 08:01:19 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  2 08:01:19 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  2 08:01:19 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  2 08:01:19 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  2 09:01:19 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  2 09:01:19 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  2 09:01:19 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  2 09:01:19 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  2 09:01:19 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  2 09:01:19 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  2 10:01:20 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  2 10:01:20 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  2 10:01:20 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  2 10:01:20 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  2 10:01:20 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  2 10:01:20 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  2 11:01:19 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  2 11:01:19 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  2 11:01:19 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  2 11:01:19 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  2 11:01:19 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  2 11:01:19 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  2 12:01:19 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  2 12:01:19 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  2 12:01:19 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  2 12:01:19 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  2 12:01:19 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  2 12:01:19 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  2 13:01:19 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  2 13:01:19 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  2 13:01:19 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  2 13:01:19 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  2 13:01:19 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  2 13:01:19 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  2 14:01:19 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  2 14:01:19 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  2 14:01:19 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  2 14:01:19 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  2 14:01:19 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  2 14:01:19 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  2 15:01:20 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  2 15:01:20 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  2 15:01:20 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  2 15:01:20 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  2 15:01:20 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  2 15:01:20 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  2 16:01:20 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  2 16:01:20 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  2 16:01:20 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  2 16:01:20 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  2 16:01:20 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  2 16:01:20 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  2 17:01:19 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  2 17:01:19 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  2 17:01:19 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  2 17:01:19 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  2 17:01:19 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  2 17:01:19 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  2 18:01:19 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  2 18:01:19 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  2 18:01:19 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  2 18:01:19 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  2 18:01:19 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  2 18:01:19 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  2 19:01:25 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  2 19:01:25 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  2 19:01:25 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  2 19:01:25 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  2 19:01:25 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  2 19:01:25 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  2 20:01:19 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  2 20:01:19 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  2 20:01:19 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  2 20:01:19 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  2 20:01:19 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  2 20:01:19 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  2 21:01:19 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  2 21:01:19 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  2 21:01:19 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  2 21:01:19 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  2 21:01:19 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  2 21:01:19 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  2 22:01:21 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  2 22:01:21 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  2 22:01:21 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  2 22:01:21 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  2 22:01:21 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  2 22:01:21 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  2 23:01:20 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  2 23:01:20 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  2 23:01:20 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  2 23:01:20 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  2 23:01:20 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  2 23:01:20 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  3 00:01:20 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  3 00:01:20 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  3 00:01:20 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  3 00:01:20 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  3 00:01:20 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  3 00:01:20 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  3 01:01:07 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  3 01:01:07 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  3 01:01:07 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  3 01:01:07 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  3 01:01:07 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  3 01:01:07 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  3 02:01:34 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  3 02:01:34 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  3 02:01:34 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  3 02:01:34 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  3 02:01:34 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  3 02:01:34 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  3 03:01:29 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  3 03:01:29 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  3 03:01:29 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  3 03:01:29 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  3 03:01:29 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  3 03:01:29 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  3 04:01:41 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  3 04:01:41 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  3 04:01:41 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  3 04:01:41 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  3 04:01:41 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  3 04:01:41 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  3 05:01:35 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  3 05:01:35 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  3 05:01:35 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  3 05:01:35 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  3 05:01:35 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  3 05:01:35 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  3 06:01:35 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  3 06:01:35 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  3 06:01:35 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  3 06:01:35 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  3 06:01:35 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  3 06:01:35 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  3 07:01:35 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  3 07:01:35 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  3 07:01:35 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  3 07:01:35 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  3 07:01:35 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  3 07:01:35 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  3 08:01:35 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  3 08:01:35 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  3 08:01:35 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  3 08:01:35 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  3 08:01:35 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  3 08:01:35 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  3 09:01:34 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  3 09:01:34 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  3 09:01:34 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  3 09:01:34 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  3 09:01:34 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  3 09:01:34 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  3 10:01:35 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  3 10:01:35 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  3 10:01:35 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  3 10:01:35 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  3 10:01:35 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  3 10:01:35 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  3 11:01:35 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  3 11:01:35 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  3 11:01:35 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  3 11:01:35 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  3 11:01:35 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  3 11:01:35 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  3 12:01:41 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  3 12:01:41 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  3 12:01:41 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  3 12:01:41 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  3 12:01:41 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  3 12:01:41 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  3 13:01:35 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  3 13:01:35 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  3 13:01:35 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  3 13:01:35 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  3 13:01:35 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  3 13:01:35 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  3 14:01:34 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  3 14:01:34 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  3 14:01:34 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  3 14:01:34 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  3 14:01:34 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  3 14:01:34 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  3 15:01:35 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  3 15:01:35 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  3 15:01:35 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  3 15:01:35 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  3 15:01:35 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  3 15:01:35 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  3 16:01:35 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  3 16:01:35 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  3 16:01:35 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  3 16:01:35 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  3 16:01:35 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  3 16:01:35 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  3 17:01:34 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  3 17:01:34 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  3 17:01:34 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  3 17:01:34 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  3 17:01:34 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  3 17:01:34 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  3 18:01:34 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  3 18:01:34 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  3 18:01:34 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  3 18:01:34 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  3 18:01:34 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  3 18:01:34 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  3 19:01:36 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  3 19:01:36 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  3 19:01:36 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  3 19:01:36 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  3 19:01:36 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  3 19:01:36 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  3 20:01:45 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  3 20:01:45 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  3 20:01:45 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  3 20:01:45 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  3 20:01:45 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  3 20:01:45 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  3 21:01:34 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  3 21:01:34 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  3 21:01:34 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  3 21:01:34 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  3 21:01:34 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  3 21:01:34 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  3 22:01:35 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  3 22:01:35 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  3 22:01:35 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  3 22:01:35 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  3 22:01:35 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  3 22:01:35 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  3 23:01:35 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  3 23:01:35 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  3 23:01:35 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  3 23:01:35 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  3 23:01:35 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  3 23:01:35 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  4 00:01:40 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  4 00:01:40 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  4 00:01:40 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  4 00:01:40 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  4 00:01:40 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  4 00:01:40 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  4 01:01:35 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  4 01:01:35 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  4 01:01:35 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  4 01:01:35 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  4 01:01:35 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  4 01:01:35 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  4 02:01:35 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  4 02:01:35 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  4 02:01:35 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  4 02:01:35 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  4 02:01:35 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  4 02:01:35 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  4 03:01:36 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  4 03:01:36 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  4 03:01:36 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  4 03:01:36 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  4 03:01:36 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  4 03:01:36 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  4 04:01:35 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  4 04:01:35 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  4 04:01:35 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  4 04:01:35 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  4 04:01:35 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  4 04:01:35 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  4 05:01:35 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  4 05:01:35 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  4 05:01:35 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  4 05:01:35 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  4 05:01:35 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  4 05:01:35 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  4 06:01:35 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  4 06:01:35 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  4 06:01:35 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  4 06:01:35 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  4 06:01:35 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  4 06:01:35 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  4 07:01:34 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  4 07:01:34 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  4 07:01:34 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  4 07:01:34 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  4 07:01:34 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  4 07:01:34 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  4 08:01:36 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  4 08:01:36 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  4 08:01:36 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  4 08:01:36 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  4 08:01:36 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  4 08:01:36 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  4 09:01:40 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  4 09:01:40 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  4 09:01:40 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  4 09:01:40 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  4 09:01:40 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  4 09:01:40 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  4 10:01:35 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  4 10:01:35 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  4 10:01:35 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  4 10:01:35 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  4 10:01:35 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  4 10:01:35 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  4 11:01:34 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  4 11:01:34 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  4 11:01:34 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  4 11:01:34 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  4 11:01:34 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  4 11:01:34 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  4 12:01:40 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  4 12:01:40 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  4 12:01:40 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  4 12:01:40 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  4 12:01:40 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  4 12:01:40 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  4 13:01:36 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  4 13:01:36 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  4 13:01:36 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  4 13:01:36 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  4 13:01:36 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  4 13:01:36 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  4 14:01:35 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  4 14:01:35 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  4 14:01:35 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  4 14:01:35 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  4 14:01:35 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  4 14:01:35 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  4 15:01:35 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  4 15:01:35 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  4 15:01:35 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  4 15:01:35 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  4 15:01:35 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  4 15:01:35 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  4 16:01:35 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  4 16:01:35 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  4 16:01:35 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  4 16:01:35 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  4 16:01:35 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  4 16:01:35 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  4 17:01:35 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  4 17:01:35 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  4 17:01:35 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  4 17:01:35 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  4 17:01:35 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  4 17:01:35 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  4 18:01:35 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  4 18:01:35 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  4 18:01:35 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  4 18:01:35 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  4 18:01:35 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  4 18:01:35 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  4 19:01:36 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  4 19:01:36 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  4 19:01:36 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  4 19:01:36 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  4 19:01:36 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  4 19:01:36 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  4 20:01:35 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  4 20:01:35 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  4 20:01:35 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  4 20:01:35 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  4 20:01:35 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  4 20:01:35 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  4 21:01:36 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  4 21:01:36 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  4 21:01:36 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  4 21:01:36 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  4 21:01:36 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  4 21:01:36 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  4 22:01:40 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  4 22:01:40 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  4 22:01:40 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  4 22:01:40 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  4 22:01:40 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  4 22:01:40 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  4 23:01:34 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  4 23:01:34 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  4 23:01:34 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  4 23:01:34 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  4 23:01:34 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  4 23:01:34 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  5 00:01:39 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  5 00:01:39 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  5 00:01:39 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  5 00:01:39 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  5 00:01:39 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  5 00:01:39 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  5 01:01:34 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  5 01:01:34 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  5 01:01:34 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  5 01:01:34 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  5 01:01:34 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  5 01:01:34 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  5 02:01:34 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  5 02:01:34 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  5 02:01:34 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  5 02:01:34 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  5 02:01:34 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  5 02:01:34 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  5 03:01:36 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  5 03:01:36 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  5 03:01:36 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  5 03:01:36 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  5 03:01:36 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  5 03:01:36 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  5 04:01:35 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  5 04:01:35 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  5 04:01:35 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  5 04:01:35 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  5 04:01:35 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  5 04:01:35 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  5 05:01:35 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  5 05:01:35 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  5 05:01:35 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  5 05:01:35 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  5 05:01:35 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  5 05:01:35 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  5 06:01:34 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  5 06:01:34 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  5 06:01:34 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  5 06:01:34 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  5 06:01:34 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  5 06:01:34 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  5 07:01:34 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  5 07:01:34 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  5 07:01:34 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  5 07:01:34 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  5 07:01:34 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  5 07:01:34 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  5 08:01:35 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  5 08:01:35 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  5 08:01:35 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  5 08:01:35 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  5 08:01:35 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  5 08:01:35 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  5 09:01:34 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  5 09:01:34 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  5 09:01:34 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  5 09:01:34 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  5 09:01:34 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  5 09:01:34 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  5 10:01:35 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  5 10:01:35 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  5 10:01:35 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  5 10:01:35 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  5 10:01:35 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  5 10:01:35 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  5 11:01:39 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  5 11:01:39 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  5 11:01:39 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  5 11:01:39 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  5 11:01:39 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  5 11:01:39 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  5 12:01:39 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  5 12:01:39 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  5 12:01:39 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  5 12:01:39 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  5 12:01:39 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  5 12:01:39 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  5 13:01:36 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  5 13:01:36 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  5 13:01:36 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  5 13:01:36 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  5 13:01:36 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  5 13:01:36 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  5 14:01:33 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  5 14:01:33 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  5 14:01:33 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  5 14:01:33 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  5 14:01:33 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  5 14:01:33 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  5 15:01:34 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  5 15:01:34 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  5 15:01:34 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  5 15:01:34 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  5 15:01:34 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  5 15:01:34 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  5 16:01:33 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  5 16:01:33 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  5 16:01:33 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  5 16:01:33 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  5 16:01:33 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  5 16:01:33 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  5 17:01:34 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  5 17:01:34 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  5 17:01:34 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  5 17:01:34 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  5 17:01:34 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  5 17:01:34 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  5 18:01:33 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  5 18:01:33 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  5 18:01:33 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  5 18:01:33 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  5 18:01:33 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  5 18:01:33 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  5 19:01:35 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  5 19:01:35 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  5 19:01:35 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  5 19:01:35 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  5 19:01:35 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  5 19:01:35 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  5 20:01:33 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  5 20:01:33 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  5 20:01:33 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  5 20:01:33 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  5 20:01:33 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  5 20:01:33 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  5 21:01:34 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  5 21:01:34 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  5 21:01:34 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  5 21:01:34 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  5 21:01:34 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  5 21:01:34 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  5 22:01:35 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  5 22:01:35 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  5 22:01:35 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  5 22:01:35 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  5 22:01:35 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  5 22:01:35 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  5 23:01:34 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  5 23:01:34 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  5 23:01:34 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  5 23:01:34 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  5 23:01:34 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  5 23:01:34 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  6 00:01:38 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  6 00:01:38 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  6 00:01:38 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  6 00:01:38 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  6 00:01:38 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  6 00:01:38 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  6 01:01:33 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  6 01:01:33 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  6 01:01:33 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  6 01:01:33 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  6 01:01:33 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  6 01:01:33 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  6 02:01:33 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  6 02:01:33 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  6 02:01:33 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  6 02:01:33 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  6 02:01:33 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  6 02:01:33 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  6 03:01:34 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  6 03:01:34 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  6 03:01:34 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  6 03:01:34 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  6 03:01:34 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  6 03:01:34 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  6 04:01:34 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  6 04:01:34 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  6 04:01:34 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  6 04:01:34 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  6 04:01:34 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  6 04:01:34 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  6 05:01:35 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  6 05:01:35 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  6 05:01:35 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  6 05:01:35 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  6 05:01:35 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  6 05:01:35 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  6 06:01:34 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  6 06:01:34 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  6 06:01:34 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  6 06:01:34 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  6 06:01:34 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  6 06:01:34 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  6 07:01:34 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  6 07:01:34 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  6 07:01:34 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  6 07:01:34 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  6 07:01:34 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  6 07:01:34 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  6 08:01:34 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  6 08:01:34 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  6 08:01:34 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  6 08:01:34 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  6 08:01:34 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  6 08:01:34 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  6 09:01:33 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  6 09:01:33 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  6 09:01:33 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  6 09:01:33 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  6 09:01:33 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  6 09:01:33 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  6 10:01:34 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  6 10:01:34 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  6 10:01:34 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  6 10:01:34 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  6 10:01:34 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  6 10:01:34 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  6 11:01:34 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  6 11:01:34 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  6 11:01:34 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  6 11:01:34 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  6 11:01:34 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  6 11:01:34 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  6 12:01:38 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  6 12:01:38 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  6 12:01:38 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  6 12:01:38 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  6 12:01:38 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  6 12:01:38 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  6 13:01:35 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  6 13:01:35 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  6 13:01:35 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  6 13:01:35 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  6 13:01:35 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  6 13:01:35 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  6 14:01:33 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  6 14:01:33 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  6 14:01:33 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  6 14:01:33 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  6 14:01:33 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  6 14:01:33 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  6 15:01:34 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  6 15:01:34 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  6 15:01:34 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  6 15:01:34 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  6 15:01:34 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  6 15:01:34 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  6 16:01:34 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  6 16:01:34 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  6 16:01:34 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  6 16:01:34 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  6 16:01:34 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  6 16:01:34 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  6 17:01:33 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  6 17:01:33 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  6 17:01:33 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  6 17:01:33 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  6 17:01:33 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  6 17:01:33 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  6 18:01:34 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  6 18:01:34 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  6 18:01:34 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  6 18:01:34 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  6 18:01:34 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  6 18:01:34 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  6 19:01:34 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  6 19:01:34 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  6 19:01:34 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  6 19:01:34 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  6 19:01:34 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  6 19:01:34 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  6 20:01:34 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  6 20:01:34 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  6 20:01:34 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  6 20:01:34 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  6 20:01:34 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  6 20:01:34 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  6 21:01:33 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  6 21:01:33 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  6 21:01:33 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  6 21:01:33 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  6 21:01:33 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  6 21:01:33 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  6 22:01:34 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  6 22:01:34 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  6 22:01:34 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  6 22:01:34 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  6 22:01:34 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  6 22:01:34 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  6 23:01:34 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  6 23:01:34 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  6 23:01:34 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  6 23:01:34 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  6 23:01:34 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  6 23:01:34 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  7 00:01:39 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  7 00:01:39 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  7 00:01:39 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  7 00:01:39 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  7 00:01:39 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  7 00:01:39 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  7 01:01:35 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  7 01:01:35 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  7 01:01:35 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  7 01:01:35 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  7 01:01:35 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  7 01:01:35 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  7 02:01:35 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  7 02:01:35 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  7 02:01:35 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  7 02:01:35 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  7 02:01:35 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  7 02:01:35 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0
+Jul  7 03:01:33 myhost scsi: [ID 107833 kern.warning] WARNING: /pci@0,0/pci15d9,609@1f,2/disk@0,0 (sd1):
+Jul  7 03:01:33 myhost 	Error for Command: <undecoded cmd 0xa1>    Error Level: Recovered
+Jul  7 03:01:33 myhost scsi: [ID 107833 kern.notice] 	Requested Block: 0                         Error Block: 0
+Jul  7 03:01:33 myhost scsi: [ID 107833 kern.notice] 	Vendor: ATA                                Serial Number:             
+Jul  7 03:01:33 myhost scsi: [ID 107833 kern.notice] 	Sense Key: Soft_Error
+Jul  7 03:01:33 myhost scsi: [ID 107833 kern.notice] 	ASC: 0x0 (no additional sense info), ASCQ: 0x0, FRU: 0x0

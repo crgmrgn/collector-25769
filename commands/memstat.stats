@@ -1,0 +1,6 @@
+Command line run: echo ::memstat | mdb -k
+Command return code: 0
+Command completion status: completed
+Started at: Thu Jul 14 14:41:40 2011
+Ended at: Thu Jul 14 14:41:41 2011
+Elapsed (s): 0.837887048721
