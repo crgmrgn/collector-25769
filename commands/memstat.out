@@ -2,11 +2,11 @@ Page Summary                Pages                MB  %Tot
 ------------     ----------------  ----------------  ----
 Kernel                    2318139              9055   37%
 ZFS File Data             1701791              6647   27%
-Anon                       622597              2432   10%
+Anon                       622597              2432   36%
 Exec and libs                1845                 7    0%
 Page cache                  10115                39    0%
 Free (cachelist)             2169                 8    0%
-Free (freelist)           1630471              6369   26%
+Free (freelist)           1630471              6369    0%
 
 Total                     6287127             24559
 Physical                  6287126             24559
