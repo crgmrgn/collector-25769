@@ -98,4 +98,4 @@
 *		set test_module:debug = 0x13
 
 set nfs:nfs_allow_preepoch_time = 1
-set zfs:zfs_vdev_max_pending = 10
+#set zfs:zfs_vdev_max_pending = 10
